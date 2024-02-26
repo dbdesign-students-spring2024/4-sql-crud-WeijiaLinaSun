@@ -1,0 +1,1001 @@
+name,category,price_tier,neighborhood,opening_hours,average_rating,good_for_kids
+Papa's Red Diner,Lebanese,expensive,Bayside,15:00 - 23:30,2.9,FALSE
+ Gourmet Bear Garden,Sushi,expensive,Bay Ridge,08:00 - 18:00,3.9,TRUE
+ Cozy Whale Cafe,Japanese,cheap,Manhattan Beach,08:00 - 18:00,3.7,FALSE
+ Cozy Purple Restaurant,Hungarian,medium,Canarsie,15:00 - 23:30,4.3,FALSE
+ Golden White Inn,Swedish,expensive,Coney Island,08:00 - 18:00,4.7,FALSE
+ Mama's Fox Tavern,Vietnamese,cheap,East New York,00:00 - 23:59,4.1,TRUE
+ Silver Lion Garden,Russian,cheap,Lower East Side,00:00 - 23:59,4.5,TRUE
+ Papa's Dolphin Place,Argentinian,medium,Kensington,15:00 - 23:30,3.5,TRUE
+ Electric Blue Cantina,Belgian,medium,Brownsville,08:00 - 18:00,3.1,TRUE
+ Gourmet Eagle Kitchen,Swedish,expensive,East Harlem,08:00 - 18:00,2.6,FALSE
+ Happy Tiger Pub,Belgian,medium,Financial District,15:00 - 23:30,4.5,FALSE
+ Royal Shark Steakhouse,Irish,medium,Borough Park,08:00 - 18:00,4.5,TRUE
+ Mama's Whale Steakhouse,Ethiopian,expensive,Lower East Side,15:00 - 23:30,4.6,FALSE
+ Happy Dolphin Tavern,Belgian,cheap,Brighton Beach,15:00 - 23:30,4,TRUE
+ Silver Black Restaurant,Korean BBQ,cheap,Lower East Side,00:00 - 23:59,3.3,FALSE
+ Urban Blue Brasserie,Thai,expensive,Kensington,00:00 - 23:59,3.1,FALSE
+ Mama's White Lounge,Belgian,medium,Crown Heights,00:00 - 23:59,4.6,FALSE
+ Emerald Lion Place,Indonesian,cheap,Remsen Village,11:30 - 21:30,1.8,TRUE
+ Cozy Green Tavern,Irish,medium,Greenwich Village,08:00 - 18:00,2,FALSE
+ Star Eagle Lounge,Mediterranean,cheap,Belle Harbor,00:00 - 23:59,2,FALSE
+ Mystic Tiger Pub,Dutch,medium,Ozone Park,15:00 - 23:30,4,FALSE
+ Gourmet Orange Bistro,Ethiopian,medium,Sheepshead Bay,08:00 - 18:00,1.7,TRUE
+ Papa's Eagle Bistro,Sushi,cheap,Park Slope,00:00 - 23:59,3.9,FALSE
+ Emerald Orange Lounge,Filipino,cheap,Manhattan Beach,11:30 - 21:30,5,FALSE
+ Silver Purple Restaurant,Greek,medium,Nolita,15:00 - 23:30,2.9,TRUE
+ Papa's Tiger Place,Italian,expensive,Long Island City,00:00 - 23:59,1.5,FALSE
+ Star Eagle Restaurant,Chinese,expensive,Sea Gate,08:00 - 18:00,2.5,FALSE
+ Happy Tiger Bar,Mexican,cheap,Morningside Heights,11:30 - 21:30,4,TRUE
+ Cozy Green Lounge,Egyptian,expensive,Coney Island,11:30 - 21:30,1.7,FALSE
+ Urban Shark Pub,Swiss,expensive,Ditmas Park,11:30 - 21:30,3.4,TRUE
+ Fiery Wolf Steakhouse,Peruvian,cheap,Upper East Side,15:00 - 23:30,2.9,TRUE
+ Mama's Red Steakhouse,Norwegian,cheap,Sheepshead Bay,15:00 - 23:30,3.7,TRUE
+ Gourmet Purple Bar,Irish,expensive,Long Island City,00:00 - 23:59,2.9,FALSE
+ Moonlight Dolphin Pub,South African,expensive,East Harlem,00:00 - 23:59,2.1,TRUE
+ Icy Bear Pizzeria,Jamaican,expensive,Coney Island,08:00 - 18:00,3.4,TRUE
+ Urban Fox Cantina,Mediterranean,expensive,Bed-Stuy,11:30 - 21:30,3.9,TRUE
+ Chill White Pizzeria,Finnish,medium,Howard Beach,11:30 - 21:30,2.8,TRUE
+ Moonlight Purple Diner,Swedish,cheap,Murray Hill,00:00 - 23:59,2,FALSE
+ Sunny Whale House,Mexican,medium,Astoria,15:00 - 23:30,4.3,FALSE
+ Electric Hawk Place,Hawaiian,medium,Astoria Heights,15:00 - 23:30,4.3,TRUE
+ Moonlight Red Garden,Danish,medium,Mill Basin,15:00 - 23:30,2.1,TRUE
+ Moonlight Blue Tavern,Mediterranean,cheap,Bayside,00:00 - 23:59,4,FALSE
+ Modern Purple Steakhouse,Scottish,cheap,Astoria,00:00 - 23:59,3.1,FALSE
+ Classic Tiger Brasserie,Mediterranean,medium,Inwood,11:30 - 21:30,2.9,TRUE
+ Star Red Grill,Cuban,expensive,Nolita,00:00 - 23:59,1.6,FALSE
+ Gourmet Fox Steakhouse,Danish,expensive,Inwood,11:30 - 21:30,5,FALSE
+ Mystic Hawk Diner,Tibetan,expensive,East Flatbush,00:00 - 23:59,3.1,FALSE
+ Happy Purple Restaurant,Malaysian,medium,Financial District,15:00 - 23:30,1.3,FALSE
+ Silver Yellow House,Mexican,expensive,Bergen Beach,15:00 - 23:30,4.7,FALSE
+ Sunny Purple Diner,Austrian,cheap,Sunnyside,08:00 - 18:00,1.4,TRUE
+ Electric Wolf Grill,South African,cheap,Gramercy Park,08:00 - 18:00,1.5,FALSE
+ Modern Hawk Place,Czech,medium,Crown Heights,08:00 - 18:00,3.9,TRUE
+ Icy Yellow Garden,Mexican,expensive,Tribeca,08:00 - 18:00,3,FALSE
+ Fiery Shark Trattoria,Egyptian,expensive,Brighton Beach,11:30 - 21:30,2.7,FALSE
+ Cozy Yellow House,Spanish,cheap,Rockaway Beach,00:00 - 23:59,4.1,FALSE
+ Moonlight Yellow Pub,Mediterranean,cheap,Bayside,15:00 - 23:30,1.3,FALSE
+ Emerald Eagle House,American,medium,Ditmas Park,08:00 - 18:00,5,FALSE
+ Star Dolphin Pizzeria,Peruvian,cheap,Coney Island,11:30 - 21:30,2.7,TRUE
+ Mystic Eagle Grill,Canadian,expensive,Inwood,08:00 - 18:00,4.8,TRUE
+ Sapphire Blue Garden,Portuguese,cheap,Bay Ridge,15:00 - 23:30,3.4,TRUE
+ Mama's Red Garden,Indonesian,cheap,Morningside Heights,00:00 - 23:59,3.3,TRUE
+ Vintage Hawk Garden,Japanese,cheap,Nolita,00:00 - 23:59,4.3,FALSE
+ Chill Dolphin Pizzeria,Korean,cheap,Crown Heights,15:00 - 23:30,2.2,FALSE
+ Golden Red Pizzeria,Indian,medium,DUMBO,15:00 - 23:30,3.6,TRUE
+ Fiery Red House,Vietnamese,medium,Wingate,08:00 - 18:00,3.8,TRUE
+ Sunny White Bar,Swiss,medium,Howard Beach,08:00 - 18:00,3.3,TRUE
+ Sapphire Shark Brasserie,Chinese,medium,Sheepshead Bay,15:00 - 23:30,2.4,FALSE
+ Mystic Orange Lounge,Greek,medium,Morningside Heights,11:30 - 21:30,2.6,TRUE
+ Cozy Eagle Place,Indian,expensive,Morningside Heights,08:00 - 18:00,2.5,TRUE
+ Mama's Dolphin Inn,Danish,expensive,Canarsie,11:30 - 21:30,1.2,TRUE
+ Mama's Green Pizzeria,Moroccan,medium,Wingate,15:00 - 23:30,2,TRUE
+ Moonlight Eagle Lounge,Brazilian,expensive,Harlem,11:30 - 21:30,4,FALSE
+ Emerald Blue Pub,Vietnamese,cheap,Upper East Side,08:00 - 18:00,2.6,FALSE
+ Electric Eagle Inn,Moroccan,medium,Morningside Heights,15:00 - 23:30,1.3,FALSE
+ Cozy Blue Eatery,Indian,medium,Lower East Side,00:00 - 23:59,4.3,TRUE
+ Star Wolf Garden,Cuban,medium,Inwood,08:00 - 18:00,3.2,FALSE
+ Mystic Black Pub,Hawaiian,cheap,Battery Park City,00:00 - 23:59,3.1,FALSE
+ Sunny Red Cafe,Argentinian,cheap,Ridgewood,08:00 - 18:00,4.7,FALSE
+ Star Red Cafe,Finnish,medium,Brighton Beach,15:00 - 23:30,3.7,TRUE
+ Emerald Purple Cantina,Chinese,expensive,East Harlem,00:00 - 23:59,3.9,TRUE
+ Ruby Purple Garden,Cuban,medium,Brighton Beach,00:00 - 23:59,2.8,FALSE
+ Sunny Eagle Pizzeria,Moroccan,cheap,Gravesend,00:00 - 23:59,1.1,TRUE
+ Ruby Tiger Place,Austrian,cheap,Sea Gate,00:00 - 23:59,3.3,TRUE
+ Modern Bear Steakhouse,Irish,medium,Chinatown,08:00 - 18:00,3.1,FALSE
+ Mystic Whale Inn,Japanese,expensive,Bushwick,15:00 - 23:30,3,TRUE
+ Modern Dolphin Grill,Brazilian,cheap,Rego Park,00:00 - 23:59,1.1,TRUE
+ Mama's Fox Place,Scottish,expensive,Sheepshead Bay,15:00 - 23:30,2.3,FALSE
+ Classic Bear Diner,Finnish,cheap,Forest Hills,00:00 - 23:59,3.9,FALSE
+ Cozy Whale Pub,Egyptian,cheap,Elmhurst,11:30 - 21:30,4.9,TRUE
+ Mama's Purple Bar,Vietnamese,expensive,Flatbush,00:00 - 23:59,3.1,TRUE
+ Star Black Pub,Austrian,expensive,Breezy Point,15:00 - 23:30,1.7,FALSE
+ Silver Shark Trattoria,Dutch,medium,Ozone Park,15:00 - 23:30,3,TRUE
+ Magic Bear Inn,Swedish,cheap,Ridgewood,00:00 - 23:59,3,FALSE
+ Moonlight White Diner,Australian,medium,Greenpoint,08:00 - 18:00,3.8,FALSE
+ Sunny Shark Brasserie,Cuban,expensive,Flatbush,08:00 - 18:00,1.5,TRUE
+ Moonlight White Kitchen,Korean,cheap,Howard Beach,15:00 - 23:30,1.2,TRUE
+ Fiery Shark Kitchen,Mexican,medium,Greenpoint,11:30 - 21:30,3.3,FALSE
+ Rustic Purple Trattoria,French,medium,Flatbush,15:00 - 23:30,3.7,TRUE
+ Emerald Hawk Grill,Brazilian,medium,Brighton Beach,00:00 - 23:59,3.4,FALSE
+ Ruby Lion House,Chinese,cheap,Howard Beach,08:00 - 18:00,2.7,TRUE
+ Royal Blue Tavern,Chinese,expensive,Harlem,15:00 - 23:30,4.6,TRUE
+ Golden Tiger Grill,Hungarian,cheap,Canarsie,15:00 - 23:30,1.4,FALSE
+ Fiery Black Restaurant,South African,cheap,Mill Basin,00:00 - 23:59,4.1,TRUE
+ Emerald White Steakhouse,Finnish,cheap,Bayside,15:00 - 23:30,3.3,TRUE
+ Electric Green Brasserie,Peruvian,cheap,Kips Bay,15:00 - 23:30,2.8,FALSE
+ Mama's Purple Pizzeria,Ethiopian,medium,Breezy Point,11:30 - 21:30,2.4,TRUE
+ Chill Yellow Grill,Mexican,expensive,Belle Harbor,15:00 - 23:30,2.9,FALSE
+ Classic Yellow Pizzeria,Australian,cheap,Crown Heights,08:00 - 18:00,1.1,FALSE
+ Classic Blue Bar,Canadian,medium,Park Slope,08:00 - 18:00,3.6,FALSE
+ Cozy Purple Trattoria,Swiss,cheap,Long Island City,00:00 - 23:59,5,FALSE
+ Royal Shark House,Swiss,expensive,East Flatbush,15:00 - 23:30,4.9,TRUE
+ Mystic Whale Pizzeria,Israeli,expensive,Nolita,15:00 - 23:30,4.3,FALSE
+ Icy Bear Tavern,Italian,medium,NoHo,00:00 - 23:59,1.9,FALSE
+ Mama's Green Steakhouse,Sushi,medium,Murray Hill,15:00 - 23:30,2,TRUE
+ Emerald Wolf Grill,Belgian,cheap,Canarsie,08:00 - 18:00,4.6,FALSE
+ Silver Dolphin Place,Korean,expensive,Crown Heights,08:00 - 18:00,1.5,TRUE
+ Mama's Red Inn,Vietnamese,medium,Rego Park,11:30 - 21:30,4,TRUE
+ Urban Lion Cafe,French,cheap,Jackson Heights,11:30 - 21:30,3.8,FALSE
+ Gourmet Blue Tavern,Russian,medium,Flatbush,15:00 - 23:30,1.3,TRUE
+ Modern Tiger Bar,Korean BBQ,expensive,Brighton Beach,15:00 - 23:30,2.6,FALSE
+ Cozy Hawk Cafe,Dutch,expensive,Jackson Heights,15:00 - 23:30,3,TRUE
+ Papa's Blue Trattoria,American,expensive,Kips Bay,15:00 - 23:30,2.2,TRUE
+ Rustic Bear Kitchen,Belgian,expensive,Prospect Lefferts Gardens,11:30 - 21:30,4.7,FALSE
+ Ruby Eagle Garden,Spanish,cheap,Jackson Heights,08:00 - 18:00,1.7,FALSE
+ Fiery Eagle Brasserie,Irish,cheap,Forest Hills,08:00 - 18:00,3,FALSE
+ Emerald Hawk Trattoria,Israeli,cheap,Manhattan Beach,00:00 - 23:59,2.6,TRUE
+ Mystic Shark Tavern,Polish,medium,Little Italy,08:00 - 18:00,3.5,FALSE
+ Ruby Lion Pizzeria,Scottish,cheap,Fort Greene,15:00 - 23:30,4,TRUE
+ Electric Shark Restaurant,Indian,cheap,Forest Hills,08:00 - 18:00,3.6,TRUE
+ Happy Fox Inn,Irish,expensive,Wingate,00:00 - 23:59,2,FALSE
+ Golden Red Cafe,Hawaiian,medium,Woodside,00:00 - 23:59,2.1,FALSE
+ Classic Orange Cafe,Jamaican,expensive,Nolita,11:30 - 21:30,4.2,TRUE
+ Silver Dolphin House,Lebanese,cheap,Murray Hill,00:00 - 23:59,3.6,TRUE
+ Modern Fox Pizzeria,Mediterranean,medium,Rockaway Beach,15:00 - 23:30,3.3,TRUE
+ Star Eagle Bistro,Irish,expensive,Brighton Beach,11:30 - 21:30,3.4,TRUE
+ Fiery Black Lounge,Sushi,expensive,Brownsville,15:00 - 23:30,1.9,TRUE
+ Modern Dolphin Lounge,Dutch,cheap,Greenwich Village,08:00 - 18:00,2.1,TRUE
+ Golden Hawk House,Mediterranean,expensive,East Harlem,00:00 - 23:59,1,FALSE
+ Golden Black Steakhouse,Turkish,medium,Marine Park,00:00 - 23:59,2.9,TRUE
+ Electric Eagle House,Filipino,cheap,Financial District,00:00 - 23:59,1.1,FALSE
+ Modern Dolphin Cafe,Hungarian,medium,East New York,15:00 - 23:30,2.6,TRUE
+ Mystic Bear Bar,Mexican,cheap,Crown Heights,00:00 - 23:59,2.3,TRUE
+ Vintage Purple Diner,Finnish,medium,Sheepshead Bay,15:00 - 23:30,1.6,FALSE
+ Sunny Black Bar,Lebanese,cheap,Flatiron,08:00 - 18:00,3.1,TRUE
+ Silver Yellow Trattoria,Swedish,expensive,Breezy Point,08:00 - 18:00,3.1,TRUE
+ Silver Shark House,Moroccan,medium,Sunnyside,08:00 - 18:00,3.2,TRUE
+ Star Whale Bistro,Czech,medium,Richmond Hill,15:00 - 23:30,2.8,TRUE
+ Happy Yellow Trattoria,American,expensive,Remsen Village,00:00 - 23:59,1.8,FALSE
+ Silver Blue Steakhouse,Turkish,expensive,Crown Heights,11:30 - 21:30,3.8,FALSE
+ Happy Green Bar,Greek,cheap,Prospect Lefferts Gardens,00:00 - 23:59,4.8,FALSE
+ Papa's Red Pizzeria,Brazilian,medium,Gramercy Park,00:00 - 23:59,3.2,FALSE
+ Silver Blue Cafe,Korean BBQ,cheap,Lower East Side,11:30 - 21:30,4.6,FALSE
+ Mama's Blue Cafe,Egyptian,cheap,Boerum Hill,11:30 - 21:30,3.3,FALSE
+ Sapphire Purple Bistro,Czech,expensive,Manhattan Beach,00:00 - 23:59,3.4,FALSE
+ Happy Fox Place,Swedish,cheap,Kensington,08:00 - 18:00,3.7,TRUE
+ Mama's Bear Bar,Filipino,medium,Kips Bay,11:30 - 21:30,3.8,FALSE
+ Urban Wolf Steakhouse,Moroccan,expensive,Woodside,11:30 - 21:30,3.3,TRUE
+ Classic Eagle Bistro,Malaysian,cheap,Brighton Beach,15:00 - 23:30,3,TRUE
+ Modern Bear Eatery,Austrian,cheap,Sunset Park,00:00 - 23:59,1.8,FALSE
+ Magic Green Cafe,Greek,medium,Howard Beach,11:30 - 21:30,3.6,TRUE
+ Papa's Bear Garden,Malaysian,expensive,Ridgewood,08:00 - 18:00,2.9,TRUE
+ Sapphire Dolphin Brasserie,Jamaican,medium,Upper East Side,11:30 - 21:30,3.3,TRUE
+ Emerald Orange Cafe,Turkish,expensive,Sunset Park,00:00 - 23:59,2.9,TRUE
+ Gourmet Shark House,Spanish,medium,Lower East Side,08:00 - 18:00,3.3,TRUE
+ Electric Hawk Diner,Canadian,medium,Astoria Heights,08:00 - 18:00,3,FALSE
+ Chill Fox Bar,Scottish,expensive,Belle Harbor,15:00 - 23:30,3,TRUE
+ Gourmet Whale Tavern,Swiss,expensive,Flatbush,00:00 - 23:59,4.9,TRUE
+ Star Hawk Cafe,Thai,expensive,Nolita,11:30 - 21:30,4.1,FALSE
+ Cozy Fox Cantina,Peruvian,expensive,Sheepshead Bay,08:00 - 18:00,2.2,FALSE
+ Star Yellow Pizzeria,Sushi,expensive,Jackson Heights,11:30 - 21:30,1.4,TRUE
+ Urban White Tavern,Portuguese,expensive,Borough Park,08:00 - 18:00,2.7,FALSE
+ Vintage Red Brasserie,Malaysian,expensive,Inwood,00:00 - 23:59,2.4,TRUE
+ Icy Black Lounge,Belgian,medium,Rockaway Beach,00:00 - 23:59,3.6,TRUE
+ Cozy Orange Restaurant,Indonesian,expensive,Jackson Heights,15:00 - 23:30,3.8,TRUE
+ Mama's Hawk Lounge,Portuguese,medium,East Harlem,08:00 - 18:00,2,FALSE
+ Chill Dolphin Garden,Australian,expensive,SoHo,08:00 - 18:00,1.5,FALSE
+ Golden Fox Kitchen,Chinese,medium,Harlem,08:00 - 18:00,2.3,TRUE
+ Sapphire Bear Steakhouse,Egyptian,expensive,Jackson Heights,15:00 - 23:30,2.6,FALSE
+ Golden Purple Brasserie,Sushi,expensive,Bushwick,15:00 - 23:30,1.2,FALSE
+ Moonlight Blue Garden,Malaysian,medium,Gramercy Park,00:00 - 23:59,1,TRUE
+ Royal Green Grill,Portuguese,medium,Prospect Heights,00:00 - 23:59,1,TRUE
+ Star White Kitchen,Spanish,cheap,Greenwich Village,08:00 - 18:00,4.8,FALSE
+ Emerald Blue House,Sushi,medium,Chinatown,08:00 - 18:00,1.7,FALSE
+ Electric Lion Place,Belgian,medium,NoHo,08:00 - 18:00,1.6,FALSE
+ Classic Fox Garden,Brazilian,cheap,Gerritsen Beach,11:30 - 21:30,1.4,TRUE
+ Vintage White Eatery,Korean,cheap,Bed-Stuy,15:00 - 23:30,3.1,TRUE
+ Modern Dolphin Kitchen,Jamaican,expensive,Flatiron,00:00 - 23:59,3.6,FALSE
+ Silver Purple Bistro,Argentinian,cheap,Sea Gate,00:00 - 23:59,3.7,TRUE
+ Urban Eagle Steakhouse,Hawaiian,cheap,Astoria Heights,08:00 - 18:00,3.3,TRUE
+ Emerald Purple Cafe,Cuban,cheap,Prospect Lefferts Gardens,00:00 - 23:59,3,FALSE
+ Mystic Black Tavern,Jamaican,cheap,Flatiron,08:00 - 18:00,3.3,TRUE
+ Electric Green Pub,Chinese,cheap,Richmond Hill,15:00 - 23:30,2.7,FALSE
+ Cozy Hawk Garden,Canadian,medium,Carnegie Hill,15:00 - 23:30,1.6,TRUE
+ Mama's Fox Eatery,Mediterranean,cheap,Gramercy Park,00:00 - 23:59,4.7,FALSE
+ Chill Shark Trattoria,Indian,cheap,Bay Ridge,08:00 - 18:00,4.6,TRUE
+ Sunny Lion Lounge,Dutch,expensive,Greenpoint,11:30 - 21:30,1.8,FALSE
+ Mama's Dolphin Eatery,Portuguese,cheap,East Flatbush,08:00 - 18:00,2.6,FALSE
+ Mystic Hawk House,Greek,medium,Bensonhurst,11:30 - 21:30,3.2,TRUE
+ Fiery Red Diner,Greek,cheap,Upper East Side,08:00 - 18:00,3.5,TRUE
+ Moonlight Tiger Trattoria,Filipino,expensive,Long Island City,08:00 - 18:00,4.9,TRUE
+ Royal Green Trattoria,Thai,expensive,Bensonhurst,11:30 - 21:30,1.7,FALSE
+ Electric Green Trattoria,Belgian,cheap,Marine Park,00:00 - 23:59,3.5,FALSE
+ Icy Dolphin House,Chinese,expensive,Midtown,08:00 - 18:00,1.9,TRUE
+ Modern Wolf Pub,Mexican,cheap,Ditmas Park,00:00 - 23:59,1.1,FALSE
+ Icy Eagle Brasserie,Japanese,expensive,Park Slope,08:00 - 18:00,4.7,TRUE
+ Modern Tiger Bistro,Sushi,cheap,DUMBO,08:00 - 18:00,1.9,TRUE
+ Cozy Orange Cantina,Canadian,cheap,Gravesend,15:00 - 23:30,1.2,FALSE
+ Happy Fox Lounge,Mediterranean,medium,Woodside,15:00 - 23:30,3.2,FALSE
+ Star Wolf Trattoria,Israeli,cheap,Rockaway Beach,08:00 - 18:00,1,TRUE
+ Papa's Fox Bistro,Korean BBQ,medium,Chelsea,08:00 - 18:00,2.8,TRUE
+ Sunny Tiger Bar,Malaysian,cheap,Flatbush,15:00 - 23:30,3,TRUE
+ Golden Wolf Brasserie,Filipino,expensive,Carnegie Hill,00:00 - 23:59,1,FALSE
+ Fiery Hawk Trattoria,Tibetan,expensive,Financial District,15:00 - 23:30,1.3,TRUE
+ Royal Orange Steakhouse,Swiss,medium,East Harlem,11:30 - 21:30,3.6,FALSE
+ Urban Red Pub,Finnish,medium,Bay Ridge,08:00 - 18:00,4.3,TRUE
+ Icy Dolphin Grill,Polish,medium,Sunnyside,15:00 - 23:30,4.1,TRUE
+ Fiery Yellow Inn,Chinese,expensive,Canarsie,11:30 - 21:30,1.5,TRUE
+ Urban Bear Bistro,Spanish,medium,Little Italy,15:00 - 23:30,4.5,TRUE
+ Sapphire Purple Cafe,Israeli,cheap,Remsen Village,11:30 - 21:30,4.1,TRUE
+ Electric Orange House,Finnish,cheap,Gowanus,08:00 - 18:00,3,TRUE
+ Classic Whale Lounge,Mexican,cheap,Bed-Stuy,15:00 - 23:30,3.2,TRUE
+ Classic Tiger Tavern,Korean,medium,Bay Ridge,00:00 - 23:59,4.4,TRUE
+ Rustic Hawk Trattoria,Malaysian,medium,Mill Basin,08:00 - 18:00,1.4,FALSE
+ Fiery Shark Eatery,Austrian,cheap,Rego Park,08:00 - 18:00,3.1,TRUE
+ Sunny Green Kitchen,Finnish,expensive,Prospect Lefferts Gardens,15:00 - 23:30,3.1,TRUE
+ Silver Bear Kitchen,Swiss,cheap,Belle Harbor,00:00 - 23:59,4.3,TRUE
+ Emerald Red Eatery,Indonesian,cheap,Remsen Village,15:00 - 23:30,3.3,TRUE
+ Classic Blue Trattoria,Mexican,cheap,Midwood,15:00 - 23:30,1.5,TRUE
+ Gourmet Tiger Bistro,Austrian,expensive,NoHo,15:00 - 23:30,3.7,TRUE
+ Papa's Yellow Steakhouse,Sushi,expensive,Ozone Park,15:00 - 23:30,1.1,FALSE
+ Electric Red Kitchen,Thai,expensive,Wingate,08:00 - 18:00,4.6,FALSE
+ Classic White Cantina,Egyptian,expensive,Inwood,15:00 - 23:30,4,TRUE
+ Mama's Fox Bistro,Canadian,medium,Brighton Beach,00:00 - 23:59,2.2,FALSE
+ Gourmet Eagle Cafe,Danish,medium,Hell's Kitchen,15:00 - 23:30,3.8,TRUE
+ Ruby Tiger Garden,French,medium,Bensonhurst,11:30 - 21:30,2.4,TRUE
+ Sunny Shark House,Dutch,medium,Sunset Park,08:00 - 18:00,2.8,TRUE
+ Sunny Wolf Kitchen,Sushi,cheap,Flatlands,08:00 - 18:00,2.3,TRUE
+ Rustic Hawk Eatery,Indian,medium,Kips Bay,00:00 - 23:59,4.2,FALSE
+ Golden Orange Bar,Polish,cheap,NoHo,08:00 - 18:00,4.6,FALSE
+ Chill White Grill,Mexican,cheap,Mill Basin,08:00 - 18:00,1.5,FALSE
+ Happy Yellow Cafe,Argentinian,cheap,Red Hook,15:00 - 23:30,4.1,FALSE
+ Royal Dolphin Steakhouse,Jamaican,cheap,Prospect Lefferts Gardens,15:00 - 23:30,2,FALSE
+ Sunny Whale Bar,Mexican,cheap,Red Hook,15:00 - 23:30,2.7,TRUE
+ Mystic White Pub,Egyptian,medium,Jamaica,11:30 - 21:30,3.2,FALSE
+ Star Dolphin Brasserie,Swedish,cheap,Lower East Side,00:00 - 23:59,3.2,FALSE
+ Sunny Orange Cafe,Greek,cheap,Kensington,00:00 - 23:59,3.9,FALSE
+ Sunny Tiger Kitchen,Australian,cheap,Midwood,11:30 - 21:30,2.5,FALSE
+ Star Blue Bar,Norwegian,medium,Fort Greene,11:30 - 21:30,2.4,FALSE
+ Ruby Whale Eatery,Polish,cheap,Bergen Beach,00:00 - 23:59,4.1,TRUE
+ Modern Eagle Brasserie,German,cheap,Bay Ridge,08:00 - 18:00,2.7,FALSE
+ Papa's Shark Cantina,Jamaican,expensive,Red Hook,00:00 - 23:59,3,TRUE
+ Happy Eagle Steakhouse,Israeli,medium,Gravesend,08:00 - 18:00,4.7,TRUE
+ Modern Red Diner,Japanese,cheap,Brighton Beach,11:30 - 21:30,3.2,FALSE
+ Modern Lion House,Indonesian,cheap,Flatiron,00:00 - 23:59,2.5,TRUE
+ Magic Purple Kitchen,Vietnamese,expensive,Belle Harbor,00:00 - 23:59,1.5,TRUE
+ Rustic Purple Place,Ethiopian,expensive,Battery Park City,15:00 - 23:30,4.7,TRUE
+ Magic Purple Place,Korean,cheap,Financial District,15:00 - 23:30,1.8,TRUE
+ Chill Wolf Cantina,Irish,medium,Fort Greene,15:00 - 23:30,4.6,TRUE
+ Cozy Whale Garden,Portuguese,cheap,Nolita,15:00 - 23:30,4.4,TRUE
+ Emerald Dolphin Cantina,Spanish,expensive,Bed-Stuy,11:30 - 21:30,2.3,TRUE
+ Gourmet Purple Cafe,Sushi,cheap,Sunnyside,15:00 - 23:30,1.8,TRUE
+ Golden Green Restaurant,Korean BBQ,medium,Bay Ridge,15:00 - 23:30,2.7,FALSE
+ Classic Hawk Cafe,Mediterranean,medium,Flatiron,00:00 - 23:59,1.8,TRUE
+ Sapphire Eagle Restaurant,Austrian,medium,Brownsville,15:00 - 23:30,1.9,TRUE
+ Modern Black Cantina,Tibetan,medium,Inwood,15:00 - 23:30,3,TRUE
+ Emerald Black Restaurant,Danish,medium,Battery Park City,15:00 - 23:30,3.7,TRUE
+ Rustic Wolf Kitchen,Indian,cheap,Prospect Heights,00:00 - 23:59,3.9,FALSE
+ Emerald Black Pub,Argentinian,expensive,Williamsburg,15:00 - 23:30,3,FALSE
+ Emerald Whale Cafe,Japanese,expensive,Kips Bay,11:30 - 21:30,3.3,TRUE
+ Cozy Black Bistro,Dutch,expensive,Brighton Beach,15:00 - 23:30,2.8,TRUE
+ Urban Black Steakhouse,Korean,expensive,Forest Hills,08:00 - 18:00,2.3,FALSE
+ Chill Tiger Eatery,Hawaiian,expensive,Far Rockaway,00:00 - 23:59,2,FALSE
+ Gourmet Yellow Inn,Portuguese,cheap,Sunset Park,08:00 - 18:00,4.9,FALSE
+ Star Tiger Cantina,Turkish,medium,Upper East Side,11:30 - 21:30,1.3,TRUE
+ Happy Dolphin Diner,Austrian,expensive,Canarsie,11:30 - 21:30,3.7,TRUE
+ Gourmet Lion Diner,Argentinian,medium,Chelsea,11:30 - 21:30,3.4,TRUE
+ Emerald Hawk Pub,Mediterranean,cheap,Hell's Kitchen,00:00 - 23:59,1.9,FALSE
+ Rustic Fox Kitchen,Indian,cheap,Cobble Hill,08:00 - 18:00,4.1,FALSE
+ Urban Green Cantina,Scottish,medium,Jackson Heights,00:00 - 23:59,2.1,TRUE
+ Golden Fox Garden,Portuguese,cheap,Sheepshead Bay,15:00 - 23:30,4.8,FALSE
+ Sapphire Wolf Brasserie,Sushi,cheap,Howard Beach,11:30 - 21:30,3.7,TRUE
+ Mama's Wolf Lounge,South African,medium,Sunset Park,00:00 - 23:59,4.8,TRUE
+ Rustic Dolphin House,Turkish,medium,East Harlem,11:30 - 21:30,4.3,FALSE
+ Emerald Red Garden,Moroccan,medium,Carnegie Hill,08:00 - 18:00,3.7,TRUE
+ Gourmet Purple Trattoria,Swedish,expensive,Elmhurst,15:00 - 23:30,5,FALSE
+ Icy Whale Inn,Hungarian,cheap,East New York,00:00 - 23:59,2.9,FALSE
+ Star Hawk Diner,Swedish,medium,Bay Ridge,08:00 - 18:00,1.6,TRUE
+ Mama's Hawk Cantina,Ethiopian,cheap,Bayside,15:00 - 23:30,4.6,FALSE
+ Sunny Bear Tavern,Tibetan,expensive,Williamsburg,00:00 - 23:59,2.7,TRUE
+ Fiery Orange Diner,Norwegian,medium,Nolita,11:30 - 21:30,4.5,FALSE
+ Emerald Tiger Eatery,Swiss,cheap,DUMBO,00:00 - 23:59,2,TRUE
+ Rustic Dolphin Garden,Hawaiian,cheap,East New York,11:30 - 21:30,3.9,FALSE
+ Icy Eagle Cantina,Korean BBQ,expensive,Ozone Park,15:00 - 23:30,3.8,FALSE
+ Vintage Wolf Place,Thai,cheap,Jackson Heights,08:00 - 18:00,4,TRUE
+ Cozy White Place,Indonesian,medium,Upper East Side,15:00 - 23:30,4.9,TRUE
+ Moonlight Green Bar,Argentinian,cheap,Crown Heights,08:00 - 18:00,4.4,FALSE
+ Icy Bear Grill,Peruvian,cheap,Marine Park,15:00 - 23:30,2,TRUE
+ Cozy Tiger Bistro,Argentinian,expensive,SoHo,00:00 - 23:59,4.8,TRUE
+ Royal Blue Place,Greek,medium,Remsen Village,08:00 - 18:00,1.3,TRUE
+ Classic Black Lounge,Lebanese,cheap,Cypress Hills,15:00 - 23:30,3.8,TRUE
+ Happy Red Tavern,Mexican,expensive,Williamsburg,15:00 - 23:30,4.3,TRUE
+ Magic Tiger Bar,Sushi,expensive,Rego Park,15:00 - 23:30,4.6,TRUE
+ Emerald Wolf House,Indian,medium,Manhattan Beach,00:00 - 23:59,1.4,FALSE
+ Sunny Shark Bar,Irish,cheap,Bensonhurst,15:00 - 23:30,3.9,TRUE
+ Golden Shark Trattoria,Austrian,expensive,Far Rockaway,15:00 - 23:30,1.6,TRUE
+ Sunny Orange Garden,Polish,cheap,Sunnyside,08:00 - 18:00,3.6,TRUE
+ Icy Orange Tavern,Australian,medium,Mill Basin,08:00 - 18:00,2.7,TRUE
+ Moonlight Green Tavern,Israeli,expensive,Gowanus,00:00 - 23:59,4.5,FALSE
+ Moonlight Green Restaurant,Peruvian,expensive,Bushwick,11:30 - 21:30,4.6,TRUE
+ Emerald Dolphin Cafe,Belgian,expensive,Williamsburg,11:30 - 21:30,2.9,TRUE
+ Cozy Hawk House,Danish,cheap,Chelsea,08:00 - 18:00,3.5,TRUE
+ Gourmet Green Steakhouse,Tibetan,medium,Park Slope,08:00 - 18:00,3.3,TRUE
+ Royal Wolf House,Canadian,expensive,Ozone Park,11:30 - 21:30,2.3,FALSE
+ Magic Blue Cafe,Malaysian,expensive,Bayside,11:30 - 21:30,3.6,TRUE
+ Mystic Green Tavern,Dutch,cheap,Fort Greene,00:00 - 23:59,4.5,FALSE
+ Rustic Tiger Cantina,Czech,expensive,Crown Heights,08:00 - 18:00,4.3,FALSE
+ Mama's Black Restaurant,Sushi,cheap,Gramercy Park,11:30 - 21:30,3.3,TRUE
+ Icy Red Steakhouse,Dutch,expensive,Kensington,11:30 - 21:30,2.2,FALSE
+ Cozy White Restaurant,Turkish,expensive,Sunset Park,11:30 - 21:30,4.8,TRUE
+ Silver Dolphin Inn,Argentinian,medium,Midwood,00:00 - 23:59,3.7,FALSE
+ Classic Orange Eatery,Vietnamese,expensive,Murray Hill,00:00 - 23:59,1.9,TRUE
+ Moonlight Lion Bistro,Cuban,medium,Sunset Park,08:00 - 18:00,2.8,FALSE
+ Electric Purple Pizzeria,Polish,expensive,Coney Island,08:00 - 18:00,1.7,FALSE
+ Chill Red Trattoria,Finnish,expensive,Red Hook,00:00 - 23:59,4.4,FALSE
+ Gourmet Lion Garden,Tibetan,cheap,Flatbush,11:30 - 21:30,3.5,TRUE
+ Mystic Hawk Kitchen,Danish,expensive,Bushwick,08:00 - 18:00,1.9,FALSE
+ Emerald Shark Diner,Irish,expensive,Gowanus,08:00 - 18:00,2.3,TRUE
+ Star Lion Bar,Indonesian,expensive,Sunset Park,11:30 - 21:30,2.2,FALSE
+ Magic Dolphin Brasserie,Finnish,cheap,Flatiron,08:00 - 18:00,2.1,TRUE
+ Star Yellow Tavern,Vietnamese,expensive,Elmhurst,15:00 - 23:30,1.6,FALSE
+ Gourmet Lion Pizzeria,Portuguese,expensive,Flatiron,00:00 - 23:59,4.7,FALSE
+ Vintage Whale Pizzeria,Irish,medium,Bensonhurst,11:30 - 21:30,4.9,TRUE
+ Star Lion Kitchen,Belgian,medium,Gravesend,11:30 - 21:30,4.2,TRUE
+ Golden Dolphin Tavern,Jamaican,medium,Inwood,11:30 - 21:30,4.3,TRUE
+ Emerald Dolphin Bar,Norwegian,expensive,Ridgewood,08:00 - 18:00,3.2,TRUE
+ Modern Dolphin Brasserie,Jamaican,cheap,Red Hook,11:30 - 21:30,4.4,TRUE
+ Rustic Orange Lounge,Brazilian,expensive,Greenpoint,11:30 - 21:30,1.8,TRUE
+ Sapphire Shark House,Ethiopian,medium,Bensonhurst,15:00 - 23:30,4.7,TRUE
+ Modern Black Pizzeria,Indian,expensive,Inwood,11:30 - 21:30,1.5,FALSE
+ Sunny Orange Diner,Mexican,cheap,Sheepshead Bay,08:00 - 18:00,2.3,TRUE
+ Rustic Green Diner,South African,expensive,Jamaica,11:30 - 21:30,5,TRUE
+ Golden Whale Cafe,Brazilian,expensive,East Village,00:00 - 23:59,4.5,FALSE
+ Sapphire Bear Pub,Spanish,medium,Flatlands,08:00 - 18:00,1.8,TRUE
+ Moonlight Hawk Brasserie,Czech,cheap,Red Hook,11:30 - 21:30,1,TRUE
+ Sunny White Bistro,Chinese,medium,Windsor Terrace,08:00 - 18:00,2,FALSE
+ Golden Eagle House,Cuban,expensive,Midwood,08:00 - 18:00,4.4,TRUE
+ Moonlight Blue Cafe,Japanese,medium,Flushing,11:30 - 21:30,4.5,TRUE
+ Ruby Wolf Cafe,Jamaican,cheap,Stuyvesant Town,15:00 - 23:30,1.6,TRUE
+ Urban Orange Restaurant,Korean,expensive,Sunset Park,08:00 - 18:00,4.8,FALSE
+ Electric Eagle Steakhouse,Thai,medium,Marine Park,11:30 - 21:30,3.8,FALSE
+ Star Tiger Tavern,Swiss,cheap,Sheepshead Bay,15:00 - 23:30,3.8,FALSE
+ Gourmet Red Kitchen,Jamaican,medium,Marine Park,11:30 - 21:30,2.4,FALSE
+ Icy Bear Lounge,Mediterranean,cheap,Jamaica,11:30 - 21:30,2.5,FALSE
+ Magic Black Cafe,Scottish,cheap,Astoria,11:30 - 21:30,2.9,FALSE
+ Papa's Shark Pizzeria,Russian,expensive,Howard Beach,08:00 - 18:00,4.4,FALSE
+ Sunny Purple Grill,Belgian,cheap,Manhattan Beach,08:00 - 18:00,1.9,FALSE
+ Magic Black Eatery,Czech,medium,Nolita,11:30 - 21:30,2.7,TRUE
+ Gourmet Tiger Inn,Cuban,expensive,Kips Bay,00:00 - 23:59,1,TRUE
+ Star Whale Inn,Czech,expensive,Coney Island,11:30 - 21:30,4.3,FALSE
+ Rustic Fox Place,Norwegian,cheap,Midtown,15:00 - 23:30,3.4,FALSE
+ Emerald Fox Bar,Malaysian,medium,Brownsville,11:30 - 21:30,2.1,FALSE
+ Chill Shark Tavern,Korean BBQ,expensive,Manhattan Beach,11:30 - 21:30,1.3,FALSE
+ Gourmet Orange Inn,Hungarian,cheap,Ridgewood,08:00 - 18:00,4.9,FALSE
+ Royal Fox Trattoria,Cuban,cheap,Bensonhurst,15:00 - 23:30,1.7,FALSE
+ Emerald Wolf Inn,Indian,cheap,Chinatown,00:00 - 23:59,1.9,TRUE
+ Star Yellow Kitchen,Russian,medium,Williamsburg,15:00 - 23:30,2.2,FALSE
+ Sunny Bear Cantina,Mediterranean,expensive,Astoria Heights,00:00 - 23:59,3,TRUE
+ Fiery Eagle Garden,South African,medium,Whitestone,00:00 - 23:59,1.5,TRUE
+ Urban Orange Kitchen,Filipino,medium,Breezy Point,15:00 - 23:30,2,FALSE
+ Silver Purple Brasserie,Norwegian,cheap,Midwood,00:00 - 23:59,1.5,FALSE
+ Magic Purple Steakhouse,Portuguese,cheap,Elmhurst,15:00 - 23:30,3.2,TRUE
+ Rustic Red Kitchen,Korean BBQ,expensive,Coney Island,11:30 - 21:30,2.5,FALSE
+ Royal Eagle Pizzeria,Australian,cheap,Tribeca,00:00 - 23:59,4.9,TRUE
+ Ruby Lion Place,Polish,expensive,Hell's Kitchen,08:00 - 18:00,2.3,TRUE
+ Urban Dolphin Diner,Sushi,medium,Flatbush,11:30 - 21:30,4.5,TRUE
+ Golden Orange Bistro,South African,cheap,Boerum Hill,08:00 - 18:00,1.9,TRUE
+ Cozy Wolf Bistro,Sushi,expensive,Astoria,08:00 - 18:00,3.4,TRUE
+ Golden Shark Grill,Hungarian,expensive,Jackson Heights,08:00 - 18:00,1.8,FALSE
+ Mystic Orange Trattoria,Filipino,cheap,Prospect Heights,00:00 - 23:59,4.4,FALSE
+ Magic Yellow Eatery,Irish,expensive,Far Rockaway,11:30 - 21:30,3.8,TRUE
+ Cozy Purple Inn,Belgian,cheap,Carnegie Hill,11:30 - 21:30,1.6,FALSE
+ Sunny Whale Steakhouse,Brazilian,cheap,Lower East Side,15:00 - 23:30,3.3,FALSE
+ Star Red Garden,Finnish,medium,Bergen Beach,15:00 - 23:30,4.7,TRUE
+ Magic Yellow Restaurant,Vietnamese,medium,Bay Ridge,00:00 - 23:59,4.7,FALSE
+ Mystic Black Restaurant,Turkish,medium,Astoria,08:00 - 18:00,4.8,FALSE
+ Classic Purple Bistro,Sushi,medium,Chinatown,00:00 - 23:59,2.4,FALSE
+ Papa's Fox Kitchen,Vietnamese,cheap,Dyker Heights,00:00 - 23:59,3.7,TRUE
+ Star Purple Grill,Irish,medium,Dyker Heights,15:00 - 23:30,2.8,TRUE
+ Vintage Whale Bar,Ethiopian,cheap,Brownsville,08:00 - 18:00,4.4,FALSE
+ Chill Green Lounge,Spanish,medium,Lower East Side,15:00 - 23:30,2.4,FALSE
+ Ruby Hawk Trattoria,Danish,cheap,Mill Basin,08:00 - 18:00,3.3,TRUE
+ Happy Orange Bar,French,cheap,Morningside Heights,15:00 - 23:30,2,FALSE
+ Urban Eagle Cantina,Lebanese,expensive,Coney Island,00:00 - 23:59,2.1,TRUE
+ Icy White Trattoria,Hungarian,expensive,SoHo,15:00 - 23:30,2.4,FALSE
+ Silver Orange Eatery,Brazilian,cheap,Forest Hills,00:00 - 23:59,3.9,TRUE
+ Happy Green Trattoria,Finnish,medium,Bay Ridge,15:00 - 23:30,2.8,TRUE
+ Rustic Dolphin Cafe,Vietnamese,medium,Crown Heights,11:30 - 21:30,2,TRUE
+ Icy White Restaurant,Dutch,expensive,Breezy Point,08:00 - 18:00,4.5,FALSE
+ Moonlight Eagle Bistro,Mexican,medium,Bayside,08:00 - 18:00,1.1,TRUE
+ Electric Hawk Restaurant,Thai,medium,Long Island City,15:00 - 23:30,3.7,FALSE
+ Royal Shark Bistro,Canadian,medium,Bergen Beach,08:00 - 18:00,3.6,TRUE
+ Golden White Kitchen,Portuguese,medium,Crown Heights,00:00 - 23:59,2.9,FALSE
+ Vintage Bear Restaurant,Spanish,expensive,Prospect Lefferts Gardens,00:00 - 23:59,1.5,FALSE
+ Moonlight Bear Place,Hungarian,medium,Rego Park,15:00 - 23:30,2.5,FALSE
+ Modern Tiger Cafe,Dutch,medium,Bayside,11:30 - 21:30,2.6,FALSE
+ Gourmet White House,Jamaican,cheap,Midtown,11:30 - 21:30,3.9,FALSE
+ Chill Fox Tavern,French,cheap,Prospect Lefferts Gardens,15:00 - 23:30,3.8,FALSE
+ Royal White Bar,Scottish,medium,East New York,08:00 - 18:00,1.9,TRUE
+ Electric Green Lounge,Russian,cheap,Rugby,00:00 - 23:59,1.3,FALSE
+ Mama's Eagle Cantina,Scottish,expensive,Mill Basin,08:00 - 18:00,3.6,FALSE
+ Fiery Bear Brasserie,Swedish,medium,Richmond Hill,00:00 - 23:59,1.2,FALSE
+ Rustic Eagle Bistro,Canadian,expensive,Crown Heights,00:00 - 23:59,1.4,FALSE
+ Electric Tiger Steakhouse,Indonesian,cheap,Greenwich Village,08:00 - 18:00,3.8,TRUE
+ Electric Shark House,Korean BBQ,cheap,Hell's Kitchen,11:30 - 21:30,4.9,FALSE
+ Fiery Dolphin Garden,Hungarian,cheap,Murray Hill,08:00 - 18:00,2.4,TRUE
+ Gourmet White Bistro,Irish,cheap,Gramercy Park,11:30 - 21:30,4,FALSE
+ Sapphire Eagle House,Tibetan,expensive,Fort Greene,15:00 - 23:30,2.4,FALSE
+ Royal Eagle Bistro,Brazilian,expensive,Financial District,15:00 - 23:30,4,FALSE
+ Ruby Hawk Lounge,Indonesian,cheap,Lower East Side,00:00 - 23:59,1.4,FALSE
+ Papa's Tiger Eatery,Czech,expensive,Gramercy Park,15:00 - 23:30,3.3,TRUE
+ Sapphire Dolphin Grill,Mexican,medium,Wingate,15:00 - 23:30,1.9,FALSE
+ Emerald Black Cantina,Vietnamese,medium,Rego Park,11:30 - 21:30,3.7,FALSE
+ Papa's Hawk Grill,Turkish,cheap,Upper East Side,00:00 - 23:59,3.8,FALSE
+ Rustic Purple Cantina,Thai,expensive,Flatbush,00:00 - 23:59,3.7,TRUE
+ Golden Lion Pub,Brazilian,cheap,Flushing,15:00 - 23:30,2.9,FALSE
+ Happy Blue Pub,Swedish,cheap,Long Island City,15:00 - 23:30,4.8,FALSE
+ Sapphire Black Eatery,Filipino,medium,Dyker Heights,00:00 - 23:59,1.3,FALSE
+ Ruby Shark Diner,Spanish,expensive,Crown Heights,08:00 - 18:00,3.4,TRUE
+ Star Bear House,Lebanese,expensive,Stuyvesant Town,11:30 - 21:30,2.2,FALSE
+ Modern Blue Grill,Swedish,cheap,Ridgewood,11:30 - 21:30,2.1,FALSE
+ Gourmet Orange Lounge,Czech,expensive,Inwood,08:00 - 18:00,1.6,TRUE
+ Modern Whale Place,Jamaican,expensive,Gerritsen Beach,15:00 - 23:30,3.6,FALSE
+ Emerald Purple Steakhouse,Italian,cheap,Forest Hills,00:00 - 23:59,3.3,FALSE
+ Golden Whale Restaurant,Lebanese,expensive,Bayside,08:00 - 18:00,5,TRUE
+ Rustic Eagle Inn,Austrian,expensive,Mill Basin,08:00 - 18:00,1.9,FALSE
+ Cozy Shark Place,German,cheap,Jamaica,08:00 - 18:00,2.5,FALSE
+ Urban Tiger Pizzeria,Argentinian,medium,Canarsie,11:30 - 21:30,5,TRUE
+ Cozy Lion Inn,Hawaiian,expensive,Gravesend,15:00 - 23:30,3.4,FALSE
+ Vintage Eagle Lounge,Argentinian,expensive,Elmhurst,11:30 - 21:30,3.4,TRUE
+ Icy Whale House,Ethiopian,cheap,Manhattan Beach,00:00 - 23:59,4.6,TRUE
+ Electric Black Tavern,Czech,cheap,Belle Harbor,11:30 - 21:30,4.9,TRUE
+ Urban Green Diner,French,medium,Murray Hill,15:00 - 23:30,1.3,TRUE
+ Magic Wolf Place,Argentinian,medium,Brighton Beach,08:00 - 18:00,2.2,TRUE
+ Modern Dolphin Steakhouse,Dutch,medium,DUMBO,15:00 - 23:30,4.3,FALSE
+ Magic Lion Inn,South African,expensive,Coney Island,15:00 - 23:30,4,FALSE
+ Papa's White Pizzeria,Turkish,medium,Howard Beach,08:00 - 18:00,1.9,FALSE
+ Silver Wolf Inn,Argentinian,medium,Flatiron,11:30 - 21:30,2.8,FALSE
+ Urban Green Brasserie,Sushi,medium,Ditmas Park,15:00 - 23:30,3.3,FALSE
+ Moonlight Black Diner,Japanese,expensive,Cypress Hills,00:00 - 23:59,1.2,TRUE
+ Modern Eagle Cantina,Portuguese,expensive,East Village,00:00 - 23:59,2.6,TRUE
+ Sapphire Bear Tavern,Swedish,expensive,Flushing,00:00 - 23:59,4,TRUE
+ Modern Purple Bistro,Portuguese,expensive,Hell's Kitchen,11:30 - 21:30,3.6,TRUE
+ Modern Bear Inn,Polish,cheap,Brighton Beach,15:00 - 23:30,1,TRUE
+ Icy Purple Bistro,Czech,medium,Kensington,08:00 - 18:00,1.6,TRUE
+ Modern Bear Grill,Mediterranean,cheap,Woodside,08:00 - 18:00,3.3,TRUE
+ Rustic Orange Pizzeria,Czech,expensive,Flatbush,11:30 - 21:30,4.1,FALSE
+ Sunny Purple Lounge,Korean,expensive,Battery Park City,11:30 - 21:30,4.1,FALSE
+ Emerald Purple House,Moroccan,expensive,DUMBO,00:00 - 23:59,3.1,FALSE
+ Rustic Eagle Pizzeria,Dutch,expensive,Wingate,08:00 - 18:00,1.3,FALSE
+ Sapphire Wolf Bar,Norwegian,expensive,Far Rockaway,00:00 - 23:59,2.7,TRUE
+ Mama's Fox Brasserie,Jamaican,cheap,Bergen Beach,08:00 - 18:00,1.2,TRUE
+ Mystic Hawk Lounge,Indian,medium,Tribeca,00:00 - 23:59,4.5,FALSE
+ Star Yellow Cantina,Finnish,medium,Greenpoint,15:00 - 23:30,1.7,FALSE
+ Ruby Orange Eatery,Swedish,medium,Far Rockaway,11:30 - 21:30,4.3,FALSE
+ Sapphire Lion Brasserie,Indonesian,expensive,Wingate,00:00 - 23:59,2.6,TRUE
+ Modern Red Eatery,Hungarian,medium,Red Hook,15:00 - 23:30,3.3,TRUE
+ Happy Green Grill,Israeli,expensive,Fort Greene,15:00 - 23:30,2.6,TRUE
+ Urban Hawk Lounge,Japanese,expensive,Midwood,00:00 - 23:59,4.9,FALSE
+ Mama's Yellow Inn,Polish,medium,Upper East Side,00:00 - 23:59,1.5,FALSE
+ Ruby Red Kitchen,Sushi,medium,Sunset Park,00:00 - 23:59,1.5,TRUE
+ Electric Lion Trattoria,Russian,expensive,Forest Hills,15:00 - 23:30,3.4,TRUE
+ Emerald Blue Eatery,Filipino,cheap,Tribeca,11:30 - 21:30,1.4,FALSE
+ Magic Purple Garden,Dutch,expensive,Flatiron,08:00 - 18:00,2,TRUE
+ Cozy Wolf Lounge,Thai,medium,Hell's Kitchen,15:00 - 23:30,1.2,TRUE
+ Star Orange Kitchen,Norwegian,expensive,Sunset Park,11:30 - 21:30,2.7,TRUE
+ Gourmet Wolf Tavern,Brazilian,cheap,East Harlem,11:30 - 21:30,2.1,TRUE
+ Magic Lion Lounge,Hawaiian,cheap,Flatiron,11:30 - 21:30,4,TRUE
+ Rustic Orange Bistro,Hawaiian,cheap,Upper East Side,11:30 - 21:30,1.8,FALSE
+ Emerald Black Trattoria,Czech,expensive,Greenpoint,08:00 - 18:00,3.2,FALSE
+ Classic Shark Lounge,Korean,expensive,Rugby,08:00 - 18:00,3.5,FALSE
+ Classic Wolf Bistro,Korean,medium,Bushwick,15:00 - 23:30,4.9,TRUE
+ Golden Orange Diner,Malaysian,medium,Carnegie Hill,00:00 - 23:59,4.1,TRUE
+ Mama's Blue Restaurant,South African,medium,Upper East Side,15:00 - 23:30,1.1,FALSE
+ Gourmet Bear Tavern,Mediterranean,expensive,Rockaway Beach,08:00 - 18:00,3.3,TRUE
+ Golden Green Trattoria,Sushi,expensive,Bayside,15:00 - 23:30,4.9,TRUE
+ Icy Yellow Restaurant,Indonesian,cheap,Murray Hill,08:00 - 18:00,3.5,TRUE
+ Rustic Red Place,Irish,medium,Mill Basin,08:00 - 18:00,1,FALSE
+ Icy Yellow Diner,Argentinian,cheap,Financial District,11:30 - 21:30,4.2,FALSE
+ Papa's Orange Kitchen,Swedish,medium,Gerritsen Beach,08:00 - 18:00,1.8,TRUE
+ Vintage Orange Place,Danish,cheap,Wingate,00:00 - 23:59,1.2,FALSE
+ Urban Dolphin Bistro,Tibetan,expensive,Rockaway Beach,11:30 - 21:30,2.3,TRUE
+ Cozy Dolphin Bistro,Canadian,cheap,Rugby,15:00 - 23:30,2,TRUE
+ Mystic Purple House,Lebanese,cheap,Flatiron,08:00 - 18:00,3,TRUE
+ Urban Wolf Cantina,Swedish,cheap,Bay Ridge,15:00 - 23:30,4.8,TRUE
+ Golden Red Restaurant,Peruvian,cheap,Sunset Park,08:00 - 18:00,2.7,TRUE
+ Sapphire Shark Eatery,Portuguese,expensive,Coney Island,08:00 - 18:00,1.2,FALSE
+ Silver Whale Eatery,Greek,cheap,Forest Hills,15:00 - 23:30,4.9,TRUE
+ Papa's Wolf Brasserie,Jamaican,cheap,Coney Island,11:30 - 21:30,4.4,FALSE
+ Fiery Whale Cafe,Czech,cheap,Coney Island,15:00 - 23:30,2.2,FALSE
+ Cozy White Lounge,Mediterranean,expensive,East Harlem,11:30 - 21:30,1.7,TRUE
+ Chill Wolf Lounge,Irish,medium,Woodside,11:30 - 21:30,2.2,TRUE
+ Urban Orange Steakhouse,Swiss,expensive,Little Italy,15:00 - 23:30,1.7,TRUE
+ Happy Hawk Bar,Indian,expensive,Stuyvesant Town,00:00 - 23:59,2.9,TRUE
+ Ruby White Pub,Hawaiian,expensive,Coney Island,11:30 - 21:30,4.9,FALSE
+ Magic Tiger Brasserie,Scottish,expensive,Park Slope,00:00 - 23:59,1.3,TRUE
+ Sapphire Wolf Tavern,Czech,expensive,Whitestone,11:30 - 21:30,1.7,FALSE
+ Modern Tiger Grill,Polish,medium,Jamaica,08:00 - 18:00,3.4,FALSE
+ Rustic Shark Kitchen,Turkish,cheap,Greenwich Village,15:00 - 23:30,2.8,FALSE
+ Electric Blue Restaurant,Tibetan,expensive,Little Italy,11:30 - 21:30,1.4,TRUE
+ Moonlight Lion Cantina,Hawaiian,medium,Stuyvesant Town,00:00 - 23:59,1.6,TRUE
+ Silver Black Bar,Spanish,expensive,Whitestone,00:00 - 23:59,5,FALSE
+ Electric Blue Brasserie,Ethiopian,expensive,Forest Hills,15:00 - 23:30,4,TRUE
+ Papa's Red Tavern,Australian,medium,Belle Harbor,15:00 - 23:30,4.4,FALSE
+ Sapphire Fox Tavern,Belgian,medium,Forest Hills,11:30 - 21:30,4.9,FALSE
+ Mystic Tiger Lounge,Thai,expensive,Cobble Hill,08:00 - 18:00,1.3,TRUE
+ Electric Orange Eatery,Vietnamese,expensive,Elmhurst,00:00 - 23:59,2.8,FALSE
+ Modern White Garden,Sushi,expensive,Upper East Side,08:00 - 18:00,2.9,FALSE
+ Electric Wolf Pub,Greek,expensive,Sunnyside,15:00 - 23:30,1.9,FALSE
+ Icy Hawk Grill,Malaysian,medium,Kips Bay,15:00 - 23:30,1.6,FALSE
+ Happy Green Garden,Argentinian,expensive,Carnegie Hill,11:30 - 21:30,2.3,FALSE
+ Rustic Wolf Lounge,Indonesian,expensive,Coney Island,15:00 - 23:30,3.8,FALSE
+ Golden Purple Cafe,Canadian,expensive,East New York,11:30 - 21:30,1.5,TRUE
+ Icy White Steakhouse,Mexican,expensive,Gowanus,15:00 - 23:30,4.6,FALSE
+ Urban Wolf Cafe,Lebanese,expensive,Forest Hills,00:00 - 23:59,2,TRUE
+ Fiery Hawk Cafe,Spanish,cheap,Inwood,11:30 - 21:30,3.5,FALSE
+ Royal Blue Eatery,German,medium,Harlem,08:00 - 18:00,2.9,FALSE
+ Sunny Eagle Brasserie,Irish,cheap,Carnegie Hill,00:00 - 23:59,2.4,FALSE
+ Rustic Green Cafe,Chinese,expensive,Woodside,11:30 - 21:30,2,TRUE
+ Emerald Lion Pizzeria,Russian,medium,Battery Park City,15:00 - 23:30,4.7,TRUE
+ Mystic White Cafe,Egyptian,cheap,Cypress Hills,15:00 - 23:30,2,TRUE
+ Sunny Fox Kitchen,Danish,cheap,Morningside Heights,11:30 - 21:30,2.2,FALSE
+ Icy Lion Lounge,Moroccan,expensive,Prospect Heights,11:30 - 21:30,3.6,TRUE
+ Mama's Wolf Restaurant,German,medium,Bergen Beach,00:00 - 23:59,3.6,TRUE
+ Mama's Purple Place,Korean,cheap,Carnegie Hill,11:30 - 21:30,2.8,TRUE
+ Mama's Shark Diner,Spanish,expensive,Bensonhurst,08:00 - 18:00,1.5,FALSE
+ Modern Red Lounge,American,medium,Red Hook,15:00 - 23:30,2.8,FALSE
+ Icy Yellow House,Belgian,expensive,Whitestone,15:00 - 23:30,1.3,TRUE
+ Urban Bear Garden,Sushi,expensive,Whitestone,11:30 - 21:30,3,TRUE
+ Icy White Inn,Vietnamese,expensive,Upper East Side,08:00 - 18:00,2.4,TRUE
+ Mystic Lion Trattoria,Filipino,medium,Bay Ridge,08:00 - 18:00,4.3,TRUE
+ Electric Purple House,Egyptian,medium,Harlem,15:00 - 23:30,3.3,FALSE
+ Moonlight Purple Inn,Japanese,expensive,Gramercy Park,11:30 - 21:30,4.2,FALSE
+ Cozy Orange Kitchen,Israeli,cheap,Remsen Village,11:30 - 21:30,4.5,TRUE
+ Star Whale Cantina,Filipino,medium,East Harlem,11:30 - 21:30,2.9,TRUE
+ Happy Lion House,Korean BBQ,expensive,Forest Hills,00:00 - 23:59,3.9,TRUE
+ Modern Blue Brasserie,Brazilian,medium,Chinatown,08:00 - 18:00,2.7,TRUE
+ Gourmet Blue Inn,Chinese,cheap,Flushing,11:30 - 21:30,2.2,TRUE
+ Sapphire Tiger Place,French,expensive,Flushing,00:00 - 23:59,2.3,TRUE
+ Vintage White Garden,Japanese,medium,Gowanus,11:30 - 21:30,2,FALSE
+ Classic Wolf House,South African,expensive,Midwood,00:00 - 23:59,4.6,FALSE
+ Vintage Shark Cantina,Hungarian,expensive,Kensington,08:00 - 18:00,2.3,TRUE
+ Happy Black House,Polish,medium,Canarsie,15:00 - 23:30,1.2,TRUE
+ Electric Tiger Grill,Korean BBQ,medium,Forest Hills,11:30 - 21:30,4.9,TRUE
+ Star Dolphin Steakhouse,Jamaican,medium,Sunset Park,00:00 - 23:59,1.9,FALSE
+ Fiery Fox Brasserie,Russian,medium,Bay Ridge,08:00 - 18:00,2.1,FALSE
+ Moonlight Hawk Bistro,Turkish,cheap,Gravesend,08:00 - 18:00,4.8,TRUE
+ Golden Shark Lounge,Sushi,medium,Greenwich Village,15:00 - 23:30,3.5,FALSE
+ Classic White Tavern,Jamaican,medium,Windsor Terrace,00:00 - 23:59,1.1,TRUE
+ Cozy White Tavern,Mediterranean,cheap,Battery Park City,15:00 - 23:30,2.6,FALSE
+ Electric Wolf Eatery,Spanish,medium,Sea Gate,08:00 - 18:00,1.2,FALSE
+ Vintage Black House,Mexican,expensive,Elmhurst,08:00 - 18:00,1.1,TRUE
+ Magic Tiger Cantina,Japanese,cheap,Carnegie Hill,11:30 - 21:30,2.1,FALSE
+ Cozy Black House,Australian,medium,Greenpoint,08:00 - 18:00,2.9,FALSE
+ Sapphire Orange Trattoria,Belgian,medium,Park Slope,11:30 - 21:30,2.2,FALSE
+ Icy Lion House,Korean,medium,Brighton Beach,15:00 - 23:30,4.1,FALSE
+ Modern Shark House,Vietnamese,medium,Canarsie,11:30 - 21:30,1.4,TRUE
+ Golden Tiger Tavern,Czech,cheap,Bay Ridge,08:00 - 18:00,2.7,FALSE
+ Sunny Dolphin Kitchen,Chinese,expensive,Borough Park,11:30 - 21:30,4.3,FALSE
+ Urban Orange Pizzeria,Hawaiian,cheap,Flatiron,00:00 - 23:59,3.2,TRUE
+ Fiery Red Bistro,South African,medium,Greenwich Village,08:00 - 18:00,4.3,TRUE
+ Sapphire Whale Bistro,Hungarian,medium,Greenpoint,08:00 - 18:00,2.4,TRUE
+ Chill Red Place,South African,medium,Chinatown,15:00 - 23:30,4.5,TRUE
+ Magic Whale Pizzeria,Dutch,expensive,Stuyvesant Town,00:00 - 23:59,4.8,TRUE
+ Star Shark House,South African,expensive,Bensonhurst,00:00 - 23:59,3.7,FALSE
+ Mama's Green Tavern,Vietnamese,expensive,Williamsburg,00:00 - 23:59,4.5,TRUE
+ Royal Wolf Pizzeria,Sushi,expensive,Woodside,11:30 - 21:30,1.5,FALSE
+ Vintage Green Tavern,Hungarian,medium,Greenpoint,00:00 - 23:59,2.2,FALSE
+ Mystic Eagle House,Ethiopian,expensive,Windsor Terrace,00:00 - 23:59,2.9,FALSE
+ Silver Bear House,Argentinian,expensive,Brighton Beach,11:30 - 21:30,2.9,FALSE
+ Urban Wolf Diner,Danish,cheap,Coney Island,15:00 - 23:30,4,FALSE
+ Urban Wolf Bar,Hungarian,medium,Bay Ridge,00:00 - 23:59,4.1,TRUE
+ Modern Black Cafe,Tibetan,medium,Belle Harbor,15:00 - 23:30,4.3,FALSE
+ Chill Green Steakhouse,Argentinian,expensive,Cypress Hills,08:00 - 18:00,3.8,TRUE
+ Mama's Bear Tavern,Spanish,expensive,Breezy Point,00:00 - 23:59,3.3,FALSE
+ Urban Lion Lounge,Indonesian,cheap,Canarsie,11:30 - 21:30,3.5,TRUE
+ Silver Wolf Eatery,Brazilian,cheap,Nolita,08:00 - 18:00,1.5,FALSE
+ Star Bear Bar,Lebanese,medium,East Harlem,08:00 - 18:00,4.6,FALSE
+ Royal Blue Diner,Belgian,cheap,Dyker Heights,11:30 - 21:30,4.9,FALSE
+ Sapphire Fox House,Korean,medium,Elmhurst,08:00 - 18:00,1.5,FALSE
+ Rustic Whale Lounge,Turkish,cheap,Flatlands,00:00 - 23:59,1.3,TRUE
+ Chill Hawk Cantina,Hungarian,medium,Far Rockaway,00:00 - 23:59,2.7,TRUE
+ Happy Orange Cafe,Danish,expensive,Prospect Heights,15:00 - 23:30,1.5,TRUE
+ Silver Orange Kitchen,Thai,medium,Greenwich Village,08:00 - 18:00,4,FALSE
+ Sapphire White Steakhouse,Egyptian,cheap,Gowanus,08:00 - 18:00,2.1,TRUE
+ Royal Blue Pub,Malaysian,cheap,Inwood,08:00 - 18:00,2.2,TRUE
+ Royal Red Cantina,Korean BBQ,medium,Coney Island,00:00 - 23:59,2.2,FALSE
+ Ruby White Steakhouse,Polish,expensive,Canarsie,00:00 - 23:59,4.7,TRUE
+ Moonlight Orange Pizzeria,Japanese,expensive,Coney Island,08:00 - 18:00,2.2,TRUE
+ Urban Blue House,Egyptian,cheap,Astoria,11:30 - 21:30,3.2,FALSE
+ Modern Bear Place,Mexican,expensive,Greenwich Village,11:30 - 21:30,2.9,TRUE
+ Sapphire Bear Garden,German,expensive,Windsor Terrace,08:00 - 18:00,2.4,FALSE
+ Rustic Blue Lounge,Indonesian,cheap,Harlem,00:00 - 23:59,4.5,FALSE
+ Emerald Blue Trattoria,Scottish,cheap,Far Rockaway,00:00 - 23:59,4.4,TRUE
+ Rustic Black Inn,Polish,expensive,Prospect Heights,11:30 - 21:30,2.8,FALSE
+ Icy Wolf Pizzeria,Swedish,expensive,Bushwick,08:00 - 18:00,2,FALSE
+ Emerald Tiger Place,Israeli,cheap,Chinatown,00:00 - 23:59,2.1,TRUE
+ Classic Fox Trattoria,Japanese,cheap,Red Hook,11:30 - 21:30,1.6,TRUE
+ Papa's Orange Eatery,Greek,medium,Marine Park,00:00 - 23:59,4.4,TRUE
+ Rustic Wolf Cantina,Thai,expensive,Murray Hill,00:00 - 23:59,4.3,TRUE
+ Magic White Trattoria,Thai,cheap,Ridgewood,11:30 - 21:30,3.8,TRUE
+ Ruby Tiger Tavern,Dutch,expensive,Astoria Heights,15:00 - 23:30,1.1,TRUE
+ Sapphire Hawk Grill,Swiss,medium,Washington Heights,15:00 - 23:30,1.8,FALSE
+ Rustic White Pub,Chinese,expensive,East Village,15:00 - 23:30,1.6,TRUE
+ Sapphire White Inn,Irish,medium,Jackson Heights,08:00 - 18:00,3.4,TRUE
+ Mystic Lion Place,Indian,cheap,Upper East Side,11:30 - 21:30,1.6,FALSE
+ Vintage Blue House,Australian,cheap,Elmhurst,11:30 - 21:30,3.3,FALSE
+ Royal Lion Bar,Filipino,medium,Crown Heights,15:00 - 23:30,1.8,FALSE
+ Vintage Yellow Grill,Sushi,medium,Rugby,00:00 - 23:59,4.9,TRUE
+ Emerald Lion Lounge,Portuguese,cheap,Ozone Park,11:30 - 21:30,3.7,TRUE
+ Classic Bear Bar,Dutch,expensive,Prospect Heights,15:00 - 23:30,4.8,FALSE
+ Silver White Brasserie,Finnish,cheap,Brighton Beach,00:00 - 23:59,4.5,TRUE
+ Classic Green Place,Vietnamese,medium,Rego Park,15:00 - 23:30,2.6,FALSE
+ Cozy Black Restaurant,French,cheap,Ditmas Park,00:00 - 23:59,1.1,TRUE
+ Fiery Shark House,Sushi,expensive,Sea Gate,11:30 - 21:30,4.6,FALSE
+ Classic Dolphin House,Moroccan,expensive,Gowanus,15:00 - 23:30,4,TRUE
+ Urban Shark Restaurant,Danish,medium,Belle Harbor,08:00 - 18:00,3.6,TRUE
+ Sapphire Shark Bar,Egyptian,medium,Gramercy Park,00:00 - 23:59,4.7,FALSE
+ Vintage Blue Trattoria,Finnish,medium,Upper East Side,00:00 - 23:59,4.5,TRUE
+ Moonlight Whale Kitchen,Finnish,medium,Elmhurst,11:30 - 21:30,1.5,FALSE
+ Happy Wolf Inn,Polish,expensive,Wingate,08:00 - 18:00,1,FALSE
+ Silver Red Place,French,cheap,Gowanus,11:30 - 21:30,4.9,FALSE
+ Cozy White Kitchen,Australian,cheap,Carnegie Hill,08:00 - 18:00,4.2,TRUE
+ Rustic Wolf House,Egyptian,medium,Red Hook,08:00 - 18:00,3.8,FALSE
+ Happy Green Diner,Portuguese,cheap,Ozone Park,15:00 - 23:30,2.9,FALSE
+ Star Blue Restaurant,Indonesian,medium,Bushwick,00:00 - 23:59,1.7,TRUE
+ Rustic Whale Eatery,Irish,medium,Whitestone,11:30 - 21:30,2.7,TRUE
+ Ruby Purple Pub,Greek,medium,Ridgewood,00:00 - 23:59,4.8,TRUE
+ Golden Dolphin House,Thai,expensive,Greenpoint,11:30 - 21:30,3.2,TRUE
+ Star Green Bar,Australian,expensive,East New York,11:30 - 21:30,4.3,TRUE
+ Gourmet Blue Pub,American,expensive,Midtown,15:00 - 23:30,4.5,FALSE
+ Moonlight Green Cantina,Mexican,cheap,Astoria,11:30 - 21:30,4.9,FALSE
+ Rustic Lion Bar,German,medium,Gramercy Park,11:30 - 21:30,1.8,TRUE
+ Modern Whale Trattoria,French,medium,Whitestone,00:00 - 23:59,3.5,TRUE
+ Cozy Orange Place,Belgian,expensive,Belle Harbor,08:00 - 18:00,3.7,FALSE
+ Sapphire Lion House,Irish,medium,Borough Park,00:00 - 23:59,3.5,FALSE
+ Emerald Eagle Trattoria,Polish,cheap,Astoria Heights,11:30 - 21:30,2.1,TRUE
+ Cozy Shark Steakhouse,Israeli,medium,Elmhurst,15:00 - 23:30,4.4,FALSE
+ Chill Whale Garden,Danish,cheap,Jamaica,08:00 - 18:00,4.3,TRUE
+ Modern Green Bar,Polish,expensive,Kensington,08:00 - 18:00,4,TRUE
+ Mystic Purple Brasserie,Sushi,expensive,Flatlands,15:00 - 23:30,1.9,TRUE
+ Mystic Tiger Brasserie,Malaysian,expensive,NoHo,11:30 - 21:30,1.5,TRUE
+ Electric Hawk Eatery,Belgian,cheap,East Village,11:30 - 21:30,4.1,TRUE
+ Emerald Bear Steakhouse,Argentinian,cheap,Dyker Heights,08:00 - 18:00,2.3,TRUE
+ Silver Red Brasserie,Russian,cheap,Remsen Village,08:00 - 18:00,4.1,TRUE
+ Electric Eagle Brasserie,Egyptian,expensive,Canarsie,11:30 - 21:30,4,TRUE
+ Magic White Inn,Vietnamese,medium,Jackson Heights,08:00 - 18:00,4.8,FALSE
+ Golden Tiger Diner,Indian,expensive,Forest Hills,11:30 - 21:30,1.2,FALSE
+ Moonlight Shark House,Tibetan,cheap,Carnegie Hill,11:30 - 21:30,4.7,FALSE
+ Sunny Red Bistro,Filipino,expensive,Gramercy Park,11:30 - 21:30,2.4,TRUE
+ Magic Lion Brasserie,Mexican,expensive,Stuyvesant Town,00:00 - 23:59,3.2,TRUE
+ Gourmet Whale House,Austrian,cheap,Sheepshead Bay,15:00 - 23:30,2.9,FALSE
+ Star Black Cafe,Australian,medium,Rockaway Beach,11:30 - 21:30,1.6,TRUE
+ Mystic White House,Korean,cheap,Cypress Hills,15:00 - 23:30,2.2,FALSE
+ Electric Wolf Restaurant,Egyptian,cheap,Bergen Beach,08:00 - 18:00,2.5,TRUE
+ Moonlight Eagle Eatery,French,medium,DUMBO,00:00 - 23:59,2.9,TRUE
+ Golden Whale Lounge,Polish,medium,Jackson Heights,08:00 - 18:00,2.2,FALSE
+ Royal Dolphin Kitchen,Egyptian,cheap,East Village,08:00 - 18:00,2.6,FALSE
+ Gourmet Yellow Pizzeria,Argentinian,expensive,Greenwich Village,15:00 - 23:30,3,TRUE
+ Urban Eagle Bar,Polish,medium,Far Rockaway,08:00 - 18:00,1.5,TRUE
+ Moonlight Fox Diner,Moroccan,expensive,Flushing,15:00 - 23:30,2.7,FALSE
+ Modern Black Bar,Indonesian,medium,Harlem,08:00 - 18:00,1.5,FALSE
+ Icy White Grill,Thai,medium,Little Italy,11:30 - 21:30,2.2,TRUE
+ Chill Purple Bar,Canadian,cheap,Long Island City,15:00 - 23:30,1.8,FALSE
+ Ruby Dolphin Kitchen,French,expensive,Upper East Side,15:00 - 23:30,2,TRUE
+ Silver Fox Restaurant,Canadian,medium,Mill Basin,15:00 - 23:30,2.7,FALSE
+ Icy Purple Pub,Czech,cheap,Rugby,08:00 - 18:00,3.9,TRUE
+ Papa's Purple Place,Swedish,cheap,Astoria Heights,00:00 - 23:59,2.6,FALSE
+ Chill Bear Cafe,Swiss,expensive,Dyker Heights,00:00 - 23:59,3,FALSE
+ Chill Shark House,Austrian,expensive,Midtown,11:30 - 21:30,1.4,FALSE
+ Classic Lion Garden,Danish,cheap,East New York,11:30 - 21:30,4.8,TRUE
+ Gourmet Red Restaurant,Ethiopian,cheap,Flatiron,11:30 - 21:30,4.7,TRUE
+ Moonlight Bear House,Sushi,expensive,Flatbush,15:00 - 23:30,4.4,FALSE
+ Happy Whale Bistro,Mexican,medium,Chelsea,00:00 - 23:59,1.6,FALSE
+ Fiery Tiger Cafe,Norwegian,medium,Upper East Side,11:30 - 21:30,4.2,FALSE
+ Mama's Lion Cantina,Norwegian,cheap,Cobble Hill,00:00 - 23:59,4.9,TRUE
+ Modern Whale Bistro,Mexican,expensive,Financial District,11:30 - 21:30,2.1,TRUE
+ Emerald Blue Garden,Italian,cheap,Bed-Stuy,00:00 - 23:59,3.5,TRUE
+ Sunny Wolf Bistro,Ethiopian,medium,Midtown,08:00 - 18:00,2.5,TRUE
+ Rustic Bear Cantina,Norwegian,cheap,Remsen Village,15:00 - 23:30,1.9,TRUE
+ Urban Tiger Tavern,Mediterranean,medium,Jackson Heights,00:00 - 23:59,4.9,FALSE
+ Magic Shark Kitchen,Mexican,medium,Harlem,11:30 - 21:30,3.2,FALSE
+ Electric Orange Garden,Filipino,expensive,Cypress Hills,15:00 - 23:30,2.1,TRUE
+ Magic Dolphin Lounge,Norwegian,cheap,Astoria,08:00 - 18:00,1.4,FALSE
+ Emerald Orange Steakhouse,Mediterranean,medium,East Harlem,00:00 - 23:59,4.8,TRUE
+ Magic Hawk Kitchen,Russian,cheap,Sunset Park,00:00 - 23:59,1.4,TRUE
+ Papa's Bear Steakhouse,Dutch,medium,Remsen Village,00:00 - 23:59,3.7,TRUE
+ Silver Tiger Restaurant,Canadian,cheap,Sunnyside,11:30 - 21:30,3.6,TRUE
+ Rustic Lion Kitchen,Dutch,medium,Rego Park,11:30 - 21:30,4.6,FALSE
+ Electric Dolphin Steakhouse,Lebanese,expensive,Midtown,00:00 - 23:59,2,FALSE
+ Mama's Tiger Cantina,Brazilian,medium,Murray Hill,08:00 - 18:00,2.6,TRUE
+ Chill Tiger Cantina,Australian,cheap,Battery Park City,08:00 - 18:00,4.4,TRUE
+ Icy Tiger Bistro,Korean,expensive,Rockaway Beach,11:30 - 21:30,1.3,FALSE
+ Mama's White Tavern,Tibetan,medium,Hell's Kitchen,15:00 - 23:30,1.9,TRUE
+ Ruby Lion Cantina,Chinese,expensive,Bed-Stuy,08:00 - 18:00,4.3,FALSE
+ Sapphire Wolf Pizzeria,Mediterranean,expensive,Flatlands,08:00 - 18:00,4.9,TRUE
+ Royal Bear Brasserie,Irish,cheap,Dyker Heights,08:00 - 18:00,1.5,TRUE
+ Urban White Restaurant,Portuguese,medium,Rockaway Beach,00:00 - 23:59,3.8,FALSE
+ Ruby Fox Steakhouse,Vietnamese,expensive,Rego Park,08:00 - 18:00,3.7,TRUE
+ Cozy Orange Inn,Jamaican,expensive,Brighton Beach,11:30 - 21:30,3.8,TRUE
+ Modern Purple Pizzeria,Irish,medium,Flatbush,00:00 - 23:59,4.7,TRUE
+ Urban Yellow Diner,Australian,medium,Boerum Hill,15:00 - 23:30,4.1,TRUE
+ Magic Red Diner,Korean,expensive,Bayside,15:00 - 23:30,1.2,TRUE
+ Emerald Tiger Brasserie,Peruvian,medium,Cobble Hill,11:30 - 21:30,3.2,TRUE
+ Magic Lion House,Peruvian,cheap,Gravesend,11:30 - 21:30,2.4,FALSE
+ Silver Green Bistro,Tibetan,expensive,Kensington,11:30 - 21:30,2.6,FALSE
+ Moonlight Blue Eatery,Austrian,expensive,Hell's Kitchen,15:00 - 23:30,1.7,TRUE
+ Sapphire Fox Diner,Japanese,medium,Rockaway Beach,15:00 - 23:30,4.1,FALSE
+ Royal Green Place,Norwegian,medium,Sunset Park,11:30 - 21:30,3.3,TRUE
+ Vintage Fox Diner,Hawaiian,medium,Upper East Side,15:00 - 23:30,2.3,TRUE
+ Ruby Lion Pub,Norwegian,expensive,Morningside Heights,11:30 - 21:30,1.7,FALSE
+ Cozy Purple Cafe,Korean BBQ,expensive,Inwood,00:00 - 23:59,3.4,FALSE
+ Silver Blue Grill,Moroccan,cheap,NoHo,00:00 - 23:59,3.9,FALSE
+ Royal Whale Garden,Australian,medium,Murray Hill,08:00 - 18:00,4.2,TRUE
+ Icy Eagle Eatery,South African,expensive,Coney Island,08:00 - 18:00,3,FALSE
+ Happy Lion Brasserie,Korean,medium,Lower East Side,11:30 - 21:30,2.1,FALSE
+ Royal Bear Cantina,Hungarian,medium,Flushing,11:30 - 21:30,1.7,FALSE
+ Star Whale Garden,American,expensive,East Harlem,00:00 - 23:59,3,FALSE
+ Gourmet Red Place,German,expensive,Gowanus,00:00 - 23:59,3.3,TRUE
+ Vintage Blue Eatery,Jamaican,cheap,Ozone Park,15:00 - 23:30,2.9,FALSE
+ Magic Blue Steakhouse,Russian,cheap,Astoria,00:00 - 23:59,4.8,FALSE
+ Star Black Steakhouse,Israeli,cheap,Harlem,15:00 - 23:30,4,TRUE
+ Royal Hawk Inn,Filipino,expensive,Flatlands,08:00 - 18:00,2.7,TRUE
+ Fiery Orange Brasserie,Argentinian,medium,Nolita,08:00 - 18:00,2.1,FALSE
+ Fiery Green Brasserie,Canadian,medium,Chinatown,11:30 - 21:30,1.2,TRUE
+ Electric Black Kitchen,Filipino,expensive,Sheepshead Bay,08:00 - 18:00,4.9,FALSE
+ Gourmet Bear Inn,Italian,medium,Whitestone,15:00 - 23:30,1.6,TRUE
+ Papa's Shark Trattoria,Filipino,cheap,Midtown,15:00 - 23:30,3.4,FALSE
+ Cozy Fox Steakhouse,Australian,expensive,Richmond Hill,15:00 - 23:30,2.4,FALSE
+ Papa's Hawk Lounge,Tibetan,cheap,Washington Heights,15:00 - 23:30,2.1,TRUE
+ Sapphire Green Steakhouse,Vietnamese,expensive,Kips Bay,15:00 - 23:30,4,FALSE
+ Silver Eagle Cantina,Peruvian,expensive,Howard Beach,08:00 - 18:00,3.8,TRUE
+ Fiery Eagle Pizzeria,Ethiopian,cheap,Prospect Heights,11:30 - 21:30,4.1,FALSE
+ Sunny Dolphin Garden,Malaysian,expensive,Wingate,15:00 - 23:30,3.5,FALSE
+ Modern Wolf Cafe,Malaysian,medium,Washington Heights,15:00 - 23:30,3.1,TRUE
+ Mystic Shark Bistro,Danish,medium,Richmond Hill,00:00 - 23:59,1.7,FALSE
+ Moonlight Orange Restaurant,Italian,cheap,Crown Heights,00:00 - 23:59,5,FALSE
+ Modern Shark Cantina,German,cheap,Midwood,00:00 - 23:59,2.5,TRUE
+ Mama's Bear Inn,Irish,medium,Breezy Point,11:30 - 21:30,2.1,TRUE
+ Ruby White Lounge,Chinese,expensive,Gerritsen Beach,08:00 - 18:00,4,FALSE
+ Cozy Red Eatery,Thai,expensive,Little Italy,00:00 - 23:59,4.8,FALSE
+ Papa's Yellow Diner,Irish,medium,Forest Hills,08:00 - 18:00,2.8,FALSE
+ Happy Yellow Eatery,Argentinian,medium,Park Slope,08:00 - 18:00,3.4,TRUE
+ Golden Hawk Garden,Sushi,expensive,Stuyvesant Town,15:00 - 23:30,1.1,FALSE
+ Sunny White Tavern,Thai,expensive,Fort Greene,11:30 - 21:30,5,FALSE
+ Mystic Shark Pizzeria,Peruvian,expensive,Bay Ridge,08:00 - 18:00,4.1,TRUE
+ Urban Eagle Bistro,Hawaiian,expensive,Marine Park,08:00 - 18:00,3,FALSE
+ Sunny Lion Cafe,Danish,cheap,East Village,11:30 - 21:30,2.4,TRUE
+ Sapphire Purple Pub,Chinese,expensive,Gramercy Park,11:30 - 21:30,2.3,TRUE
+ Magic Hawk Eatery,Swiss,medium,Ozone Park,15:00 - 23:30,3.1,FALSE
+ Cozy White Trattoria,Turkish,cheap,Midtown,11:30 - 21:30,4.5,TRUE
+ Silver Red Kitchen,Brazilian,medium,Brighton Beach,11:30 - 21:30,4.7,TRUE
+ Emerald White Grill,Peruvian,medium,Carnegie Hill,15:00 - 23:30,1.7,TRUE
+ Chill Blue Diner,Egyptian,cheap,Ditmas Park,08:00 - 18:00,1.2,TRUE
+ Urban Wolf Pub,Lebanese,cheap,Sea Gate,11:30 - 21:30,4.7,TRUE
+ Vintage Whale Bistro,Swiss,expensive,Howard Beach,15:00 - 23:30,2.2,TRUE
+ Mystic Green Kitchen,Jamaican,expensive,Washington Heights,15:00 - 23:30,1.4,FALSE
+ Fiery Wolf Diner,Danish,medium,Greenwich Village,08:00 - 18:00,3,TRUE
+ Cozy Tiger Cafe,Thai,cheap,Sunset Park,15:00 - 23:30,3.1,TRUE
+ Chill Dolphin Steakhouse,Swiss,expensive,Greenpoint,11:30 - 21:30,4.6,TRUE
+ Sunny Blue Diner,Polish,medium,Greenwich Village,00:00 - 23:59,1.3,TRUE
+ Sapphire White Kitchen,Indian,medium,Sea Gate,11:30 - 21:30,4.7,FALSE
+ Modern Black Grill,South African,cheap,Sunset Park,15:00 - 23:30,2.9,FALSE
+ Mystic Blue Grill,Tibetan,medium,Kips Bay,15:00 - 23:30,2.4,TRUE
+ Star Dolphin Place,Jamaican,cheap,Upper East Side,00:00 - 23:59,3.3,TRUE
+ Moonlight Bear Bar,Chinese,expensive,Tribeca,15:00 - 23:30,2.7,TRUE
+ Icy Orange Pub,Spanish,expensive,Prospect Heights,08:00 - 18:00,4.4,FALSE
+ Happy Purple Brasserie,Peruvian,expensive,Little Italy,08:00 - 18:00,4.5,FALSE
+ Emerald Bear Eatery,Vietnamese,cheap,Gerritsen Beach,11:30 - 21:30,3.2,FALSE
+ Classic Green Cafe,Czech,expensive,Midwood,00:00 - 23:59,4.6,FALSE
+ Vintage Black Place,South African,expensive,Bed-Stuy,15:00 - 23:30,3.2,TRUE
+ Sapphire Eagle Grill,Sushi,expensive,Sunset Park,15:00 - 23:30,4.5,FALSE
+ Chill Dolphin Pub,Danish,medium,Long Island City,08:00 - 18:00,3.2,FALSE
+ Gourmet Black Diner,Lebanese,cheap,Brighton Beach,00:00 - 23:59,1.1,TRUE
+ Mystic Red Tavern,Mexican,medium,Woodside,11:30 - 21:30,2.4,TRUE
+ Mama's Dolphin Grill,Polish,expensive,Murray Hill,11:30 - 21:30,3.8,TRUE
+ Ruby Fox Inn,Japanese,medium,Belle Harbor,08:00 - 18:00,2.6,FALSE
+ Moonlight Whale Lounge,Lebanese,expensive,Chinatown,00:00 - 23:59,2,FALSE
+ Classic Tiger House,Japanese,cheap,Ditmas Park,00:00 - 23:59,2.1,TRUE
+ Royal Orange House,Argentinian,expensive,Rugby,00:00 - 23:59,4.5,TRUE
+ Modern Yellow Bar,Russian,expensive,Long Island City,15:00 - 23:30,4,TRUE
+ Papa's Yellow Garden,Dutch,medium,Coney Island,08:00 - 18:00,4.5,FALSE
+ Icy Eagle Diner,Mexican,expensive,Park Slope,00:00 - 23:59,5,TRUE
+ Modern Hawk Bar,Thai,medium,Bayside,11:30 - 21:30,2.9,TRUE
+ Fiery Eagle House,Egyptian,cheap,Rugby,11:30 - 21:30,1.1,TRUE
+ Royal White Lounge,Norwegian,medium,Little Italy,00:00 - 23:59,4.8,TRUE
+ Mama's Orange Diner,Peruvian,cheap,Marine Park,11:30 - 21:30,3.8,FALSE
+ Modern Green Eatery,Spanish,cheap,Long Island City,08:00 - 18:00,2.7,TRUE
+ Star Blue Lounge,Jamaican,expensive,Howard Beach,15:00 - 23:30,4.8,FALSE
+ Mystic Eagle Place,Indian,cheap,Gravesend,15:00 - 23:30,4.6,TRUE
+ Happy Wolf Grill,Argentinian,expensive,Windsor Terrace,15:00 - 23:30,4.9,TRUE
+ Mystic Orange Bistro,Chinese,expensive,Belle Harbor,00:00 - 23:59,4.7,FALSE
+ Papa's Orange Brasserie,Swiss,medium,Nolita,15:00 - 23:30,4.1,TRUE
+ Chill Fox Steakhouse,Indonesian,medium,Inwood,00:00 - 23:59,3,FALSE
+ Papa's Dolphin Lounge,Portuguese,cheap,Tribeca,11:30 - 21:30,5,TRUE
+ Magic Tiger Inn,Korean,cheap,Midwood,15:00 - 23:30,4,FALSE
+ Ruby White Tavern,Austrian,expensive,Rockaway Beach,11:30 - 21:30,2.5,TRUE
+ Rustic White Pizzeria,Malaysian,medium,Forest Hills,08:00 - 18:00,4.4,TRUE
+ Electric Wolf Bistro,Turkish,cheap,Forest Hills,11:30 - 21:30,2.8,TRUE
+ Urban White Eatery,Vietnamese,cheap,Stuyvesant Town,15:00 - 23:30,4.7,TRUE
+ Silver Black House,Swiss,medium,Elmhurst,11:30 - 21:30,4.9,FALSE
+ Gourmet Lion Bistro,Italian,cheap,Ridgewood,11:30 - 21:30,3.9,FALSE
+ Sunny Dolphin Trattoria,Israeli,expensive,Bed-Stuy,11:30 - 21:30,4,FALSE
+ Rustic Orange Restaurant,Korean BBQ,cheap,Bensonhurst,11:30 - 21:30,3.2,FALSE
+ Vintage Dolphin Bistro,Korean BBQ,expensive,Brighton Beach,00:00 - 23:59,2.9,TRUE
+ Magic Green Pub,French,medium,Murray Hill,00:00 - 23:59,3,FALSE
+ Rustic Lion Trattoria,Belgian,cheap,Tribeca,11:30 - 21:30,3,FALSE
+ Royal Red Grill,Turkish,medium,East New York,08:00 - 18:00,4.8,TRUE
+ Chill Tiger Lounge,Greek,medium,Sea Gate,08:00 - 18:00,2.1,FALSE
+ Electric Blue House,German,medium,Sunnyside,08:00 - 18:00,4.6,TRUE
+ Silver Fox Steakhouse,Canadian,medium,Elmhurst,00:00 - 23:59,2.1,TRUE
+ Mystic Red Steakhouse,Moroccan,expensive,DUMBO,00:00 - 23:59,1.9,TRUE
+ Happy Lion Kitchen,Korean BBQ,expensive,Harlem,08:00 - 18:00,4.5,FALSE
+ Emerald Black Bar,Moroccan,medium,Boerum Hill,08:00 - 18:00,1.2,FALSE
+ Classic Black Tavern,Swedish,expensive,Gerritsen Beach,08:00 - 18:00,3.5,TRUE
+ Magic Blue Tavern,Korean BBQ,medium,Canarsie,08:00 - 18:00,4.5,FALSE
+ Gourmet Shark Inn,Australian,medium,Gerritsen Beach,15:00 - 23:30,1.5,FALSE
+ Mystic Blue Lounge,Scottish,medium,Williamsburg,11:30 - 21:30,3,TRUE
+ Classic Purple Steakhouse,Malaysian,cheap,Gowanus,08:00 - 18:00,4.5,FALSE
+ Mystic Shark Cafe,Korean BBQ,expensive,Midtown,15:00 - 23:30,2.5,FALSE
+ Royal Wolf Garden,Korean BBQ,medium,Chelsea,15:00 - 23:30,2.8,FALSE
+ Ruby Green Lounge,Portuguese,medium,Washington Heights,11:30 - 21:30,2.3,FALSE
+ Modern Yellow House,Norwegian,medium,Cobble Hill,00:00 - 23:59,2.1,TRUE
+ Happy Fox Brasserie,Korean BBQ,cheap,Crown Heights,11:30 - 21:30,1.4,FALSE
+ Golden Blue Cafe,Filipino,medium,Crown Heights,00:00 - 23:59,2.4,TRUE
+ Mama's Fox Cafe,Norwegian,medium,Jackson Heights,08:00 - 18:00,2,FALSE
+ Urban Eagle Garden,Greek,medium,Bay Ridge,00:00 - 23:59,2.9,FALSE
+ Sunny Black Diner,Indian,medium,Rugby,00:00 - 23:59,1.2,TRUE
+ Modern Red Cafe,Japanese,cheap,Kips Bay,08:00 - 18:00,4.9,FALSE
+ Emerald Wolf Pub,South African,cheap,Prospect Heights,08:00 - 18:00,1.7,FALSE
+ Icy Tiger Restaurant,Polish,medium,Boerum Hill,15:00 - 23:30,2.6,FALSE
+ Fiery Bear House,Lebanese,expensive,Gowanus,15:00 - 23:30,3.2,TRUE
+ Magic Blue Grill,Canadian,cheap,Morningside Heights,15:00 - 23:30,4.5,FALSE
+ Electric Yellow Bistro,Norwegian,expensive,Flatbush,08:00 - 18:00,3.2,FALSE
+ Gourmet Eagle Tavern,Korean BBQ,expensive,Brownsville,15:00 - 23:30,4.3,TRUE
+ Sunny White Brasserie,Portuguese,cheap,Prospect Lefferts Gardens,08:00 - 18:00,3.4,TRUE
+ Papa's Red Bistro,Chinese,cheap,Wingate,15:00 - 23:30,1.4,FALSE
+ Star Bear Trattoria,Japanese,cheap,Bushwick,08:00 - 18:00,4,FALSE
+ Silver Eagle Trattoria,Dutch,cheap,East Harlem,11:30 - 21:30,5,FALSE
+ Papa's Wolf Lounge,Norwegian,expensive,Howard Beach,15:00 - 23:30,3.7,TRUE
+ Cozy Tiger Inn,Finnish,cheap,Wingate,11:30 - 21:30,4.7,FALSE
+ Silver Tiger Diner,Spanish,expensive,East Harlem,15:00 - 23:30,4.8,FALSE
+ Modern Hawk Restaurant,Dutch,medium,Gerritsen Beach,08:00 - 18:00,3.7,TRUE
+ Urban Yellow Pub,Filipino,cheap,Gerritsen Beach,15:00 - 23:30,4.5,TRUE
+ Happy Hawk Cantina,Japanese,expensive,Cypress Hills,11:30 - 21:30,2.8,FALSE
+ Mystic Hawk Restaurant,Tibetan,cheap,Cypress Hills,15:00 - 23:30,2.5,FALSE
+ Magic Bear Grill,Thai,expensive,Jackson Heights,08:00 - 18:00,3.9,TRUE
+ Urban Whale Kitchen,Italian,medium,Battery Park City,08:00 - 18:00,3.8,FALSE
+ Happy Purple Eatery,Japanese,medium,Cypress Hills,08:00 - 18:00,1.8,FALSE
+ Fiery Hawk Tavern,Czech,cheap,Woodside,08:00 - 18:00,4.7,TRUE
+ Electric Tiger Pub,Korean BBQ,medium,Richmond Hill,00:00 - 23:59,3.7,TRUE
+ Papa's Whale Diner,Austrian,expensive,Windsor Terrace,00:00 - 23:59,2.4,TRUE
+ Star Dolphin Bistro,South African,cheap,Canarsie,08:00 - 18:00,2,FALSE
+ Rustic Dolphin Cantina,Belgian,medium,Williamsburg,15:00 - 23:30,4.1,TRUE
+ Modern Lion Eatery,Italian,cheap,Gravesend,08:00 - 18:00,1.5,FALSE
+ Ruby Blue Kitchen,Korean BBQ,medium,Jackson Heights,15:00 - 23:30,1.8,FALSE
+ Gourmet Black Trattoria,Japanese,medium,Belle Harbor,08:00 - 18:00,3.5,FALSE
+ Sunny Yellow Diner,Malaysian,expensive,Kensington,15:00 - 23:30,4.5,TRUE
+ Icy Green Inn,Tibetan,expensive,Upper East Side,11:30 - 21:30,2.3,FALSE
+ Star Lion Cantina,German,cheap,Tribeca,11:30 - 21:30,1.5,FALSE
+ Happy Shark Place,Lebanese,medium,Cobble Hill,11:30 - 21:30,3.8,TRUE
+ Modern Fox Bar,Filipino,expensive,Coney Island,08:00 - 18:00,1.5,TRUE
+ Happy Purple Lounge,Italian,expensive,Park Slope,15:00 - 23:30,4,TRUE
+ Chill Wolf Cafe,Moroccan,expensive,Dyker Heights,11:30 - 21:30,3,FALSE
+ Classic Eagle Pizzeria,Dutch,expensive,Little Italy,11:30 - 21:30,5,TRUE
+ Magic Tiger Tavern,Italian,cheap,Jamaica,15:00 - 23:30,1.5,TRUE
+ Modern Eagle Steakhouse,German,expensive,SoHo,08:00 - 18:00,1.3,TRUE
+ Fiery Wolf Brasserie,Hawaiian,medium,Gerritsen Beach,11:30 - 21:30,4.3,TRUE
+ Ruby Purple Cantina,Korean BBQ,medium,Ozone Park,11:30 - 21:30,2,FALSE
+ Ruby Wolf Inn,Cuban,cheap,Bensonhurst,15:00 - 23:30,1.7,TRUE
+ Gourmet White Grill,Mexican,expensive,Upper East Side,11:30 - 21:30,4.4,FALSE
+ Gourmet Black Lounge,Jamaican,medium,Canarsie,15:00 - 23:30,4.2,FALSE
+ Golden Yellow House,Mediterranean,medium,Inwood,00:00 - 23:59,1.2,TRUE
+ Papa's Dolphin Diner,Belgian,cheap,Gowanus,08:00 - 18:00,1.3,FALSE
+ Classic Tiger Place,Irish,cheap,Greenpoint,15:00 - 23:30,2.9,TRUE
+ Mama's Whale Diner,French,medium,Brighton Beach,00:00 - 23:59,3.2,FALSE
+ Classic Lion Inn,Indonesian,medium,Marine Park,08:00 - 18:00,2,TRUE
+ Sapphire Wolf Place,Moroccan,expensive,Canarsie,15:00 - 23:30,4.9,FALSE
+ Chill Blue Pizzeria,Norwegian,cheap,Dyker Heights,08:00 - 18:00,2.4,TRUE
+ Mama's Eagle Pub,Scottish,expensive,Bay Ridge,15:00 - 23:30,1.6,FALSE
+ Royal Red Brasserie,Ethiopian,expensive,Rockaway Beach,15:00 - 23:30,3.6,FALSE
+ Electric Yellow Trattoria,Filipino,medium,Brighton Beach,11:30 - 21:30,3.4,FALSE
+ Vintage Purple Inn,Argentinian,medium,Flushing,11:30 - 21:30,1.5,FALSE
+ Sunny Orange Trattoria,Mediterranean,medium,Bushwick,08:00 - 18:00,3.7,TRUE
+ Ruby Dolphin Bar,Moroccan,cheap,Bay Ridge,15:00 - 23:30,2,TRUE
+ Chill Bear Trattoria,German,expensive,Coney Island,11:30 - 21:30,1.3,TRUE
+ Modern Lion Bistro,Egyptian,medium,Red Hook,15:00 - 23:30,2,TRUE
+ Moonlight Yellow Trattoria,Israeli,medium,Flatbush,00:00 - 23:59,2.5,FALSE
+ Sunny Orange Steakhouse,Malaysian,cheap,Crown Heights,15:00 - 23:30,3.3,TRUE
+ Mystic Shark Trattoria,Dutch,medium,Belle Harbor,08:00 - 18:00,3,TRUE
+ Ruby Dolphin Cafe,Italian,expensive,Far Rockaway,08:00 - 18:00,1.2,TRUE
+ Moonlight Yellow Pizzeria,Egyptian,medium,Sheepshead Bay,15:00 - 23:30,2.9,TRUE
+ Gourmet White Garden,Lebanese,medium,Crown Heights,00:00 - 23:59,2.8,TRUE
+ Star White Inn,Tibetan,expensive,Inwood,00:00 - 23:59,3.9,FALSE
+ Classic Dolphin Grill,Norwegian,medium,Gerritsen Beach,11:30 - 21:30,1.2,TRUE
+ Fiery Green Steakhouse,Vietnamese,expensive,Flatiron,08:00 - 18:00,4.4,FALSE
+ Mama's Black Inn,Vietnamese,expensive,Ridgewood,00:00 - 23:59,2.1,FALSE
+ Royal Green Restaurant,Belgian,medium,Far Rockaway,11:30 - 21:30,3.8,FALSE
+ Modern Blue Garden,Moroccan,medium,Jackson Heights,15:00 - 23:30,1.2,TRUE
+ Royal Hawk Garden,Vietnamese,medium,East Village,15:00 - 23:30,4.5,TRUE
+ Chill Red Inn,Greek,medium,Jackson Heights,08:00 - 18:00,1.2,TRUE
+ Rustic Red Pizzeria,Spanish,expensive,Canarsie,11:30 - 21:30,2.6,FALSE
+ Star Whale Place,Mediterranean,cheap,Upper East Side,15:00 - 23:30,5,FALSE
+ Urban Tiger Inn,Austrian,expensive,Greenpoint,15:00 - 23:30,1.5,TRUE
+ Happy Tiger Garden,Czech,expensive,Mill Basin,15:00 - 23:30,2.2,FALSE
+ Golden Lion Place,Czech,expensive,Forest Hills,00:00 - 23:59,4.2,TRUE
+ Gourmet Orange Restaurant,Filipino,cheap,Inwood,15:00 - 23:30,1.2,FALSE
+ Sunny Tiger Place,Lebanese,expensive,Howard Beach,08:00 - 18:00,3.2,TRUE
+ Modern White Tavern,Korean BBQ,cheap,Bed-Stuy,08:00 - 18:00,2.3,TRUE
+ Modern Tiger Kitchen,Australian,cheap,Gowanus,08:00 - 18:00,4.3,FALSE
+ Golden Lion House,Spanish,medium,Windsor Terrace,11:30 - 21:30,1.3,FALSE
+ Happy Tiger Cafe,Argentinian,expensive,Flushing,00:00 - 23:59,1.4,TRUE
+ Moonlight Shark Eatery,Greek,expensive,Canarsie,08:00 - 18:00,2.2,TRUE
+ Classic Yellow Grill,Mediterranean,cheap,Astoria Heights,11:30 - 21:30,4.3,TRUE
+ Sunny Dolphin Place,American,medium,East New York,08:00 - 18:00,2.9,TRUE
+ Cozy Black Bar,Spanish,medium,Bayside,15:00 - 23:30,1.3,TRUE
+ Sunny White Garden,Peruvian,expensive,Jamaica,15:00 - 23:30,3,FALSE
+ Happy Black Grill,Czech,medium,Gerritsen Beach,08:00 - 18:00,3.7,FALSE
+ Chill Purple Pizzeria,Sushi,expensive,Cypress Hills,11:30 - 21:30,4.9,FALSE
+ Star Red Diner,Vietnamese,cheap,East New York,15:00 - 23:30,4.5,FALSE
+ Royal Black Kitchen,Australian,medium,Bayside,08:00 - 18:00,1.9,FALSE
+ Star Blue Kitchen,Korean BBQ,expensive,Brownsville,00:00 - 23:59,3.3,FALSE
+ Papa's Black Bar,French,expensive,Sunnyside,00:00 - 23:59,4.8,FALSE
+ Silver Fox Cantina,Argentinian,medium,Belle Harbor,11:30 - 21:30,3.3,TRUE
+ Royal Orange Inn,Polish,medium,East New York,08:00 - 18:00,4.8,FALSE
+ Star White Trattoria,Italian,expensive,Chinatown,08:00 - 18:00,2.2,FALSE
+ Rustic Blue Diner,Lebanese,expensive,Sunset Park,08:00 - 18:00,2.8,FALSE
+ Happy Eagle Place,Lebanese,expensive,Battery Park City,08:00 - 18:00,1.1,FALSE
+ Classic Hawk Grill,Belgian,expensive,Cypress Hills,15:00 - 23:30,3.1,TRUE
+ Electric Red Trattoria,Japanese,medium,Bay Ridge,08:00 - 18:00,1.1,TRUE
+ Fiery Lion Cafe,Hawaiian,cheap,Morningside Heights,08:00 - 18:00,1.6,TRUE
+ Royal White Grill,Japanese,medium,Boerum Hill,15:00 - 23:30,2.5,TRUE
+ Modern Whale Eatery,Hungarian,expensive,Long Island City,15:00 - 23:30,1.3,TRUE
+ Sapphire Dolphin Inn,Israeli,expensive,Red Hook,15:00 - 23:30,3.2,TRUE
+ Silver Hawk Pizzeria,Indian,medium,Remsen Village,15:00 - 23:30,2.9,TRUE
+ Moonlight Eagle Diner,Italian,cheap,Red Hook,00:00 - 23:59,3.9,TRUE
+ Magic Wolf House,Indonesian,expensive,Bay Ridge,11:30 - 21:30,4.8,TRUE
+ Silver Bear Place,Sushi,medium,Carnegie Hill,15:00 - 23:30,3.4,FALSE
+ Icy Wolf Cafe,Danish,expensive,Rockaway Beach,11:30 - 21:30,4.6,FALSE
+ Happy Whale Trattoria,Irish,cheap,Bayside,08:00 - 18:00,1.9,FALSE
+ Icy Whale Place,German,medium,Long Island City,00:00 - 23:59,2.5,FALSE
+ Icy Hawk Bistro,Scottish,expensive,Sea Gate,11:30 - 21:30,2,FALSE
+ Vintage Green Cantina,Peruvian,cheap,Forest Hills,11:30 - 21:30,1.5,FALSE
+ Magic Orange Brasserie,Indonesian,expensive,Bushwick,08:00 - 18:00,3.3,FALSE
+ Urban Blue Cafe,Scottish,expensive,East Village,11:30 - 21:30,4.2,FALSE
+ Papa's Hawk Kitchen,Vietnamese,medium,Ditmas Park,15:00 - 23:30,3.2,FALSE
+ Royal Orange Place,Australian,cheap,Astoria Heights,11:30 - 21:30,2.9,TRUE
+ Mystic Red Garden,Polish,expensive,Bay Ridge,08:00 - 18:00,3.7,TRUE
+ Mystic Black Cantina,Dutch,cheap,Far Rockaway,11:30 - 21:30,3.5,TRUE
+ Mama's Blue Bar,German,cheap,Red Hook,11:30 - 21:30,4,FALSE
+ Icy Tiger Pub,French,medium,Flatbush,08:00 - 18:00,2.5,TRUE
+ Icy Dolphin Restaurant,Korean,expensive,Forest Hills,00:00 - 23:59,4.9,TRUE
+ Classic Fox Eatery,Sushi,expensive,Lower East Side,15:00 - 23:30,3.2,FALSE
+ Mama's Blue Grill,Peruvian,expensive,Park Slope,15:00 - 23:30,3.2,FALSE
+ Happy Dolphin Bar,Dutch,cheap,Midwood,11:30 - 21:30,4.3,FALSE
+ Icy Yellow Kitchen,Sushi,expensive,Rockaway Beach,15:00 - 23:30,1.5,TRUE
+ Emerald Lion Eatery,Indonesian,cheap,Prospect Lefferts Gardens,11:30 - 21:30,2.9,TRUE
+ Ruby Orange Cantina,Indian,medium,Canarsie,11:30 - 21:30,4.8,FALSE
+ Icy Orange Garden,Canadian,expensive,Bushwick,15:00 - 23:30,1.7,FALSE
+ Papa's Yellow Tavern,Sushi,expensive,Windsor Terrace,15:00 - 23:30,1.3,TRUE
+ Cozy Orange Pizzeria,Mexican,medium,East Flatbush,08:00 - 18:00,4.9,TRUE
+ Sunny Fox Eatery,Danish,medium,Financial District,00:00 - 23:59,2.5,TRUE
+ Classic Red Eatery,Norwegian,cheap,Belle Harbor,15:00 - 23:30,3.1,TRUE
+ Royal White Diner,Jamaican,expensive,Bay Ridge,15:00 - 23:30,1.2,FALSE
+ Gourmet Red Pub,Israeli,expensive,Dyker Heights,15:00 - 23:30,4.7,TRUE
+ Royal Lion Lounge,Korean,cheap,Ridgewood,15:00 - 23:30,2.3,TRUE
+ Vintage White Restaurant,Danish,cheap,SoHo,00:00 - 23:59,3.6,FALSE
+ Gourmet Black Cantina,Mexican,cheap,Carnegie Hill,15:00 - 23:30,4.9,TRUE
+ Fiery Black Pub,Dutch,medium,Greenwich Village,00:00 - 23:59,4.4,TRUE
+ Mama's Dolphin Brasserie,Korean BBQ,medium,Sunset Park,08:00 - 18:00,2.4,TRUE
+ Sunny Hawk Tavern,Austrian,cheap,Williamsburg,08:00 - 18:00,2.1,TRUE
+ Fiery Wolf Eatery,Indonesian,medium,Inwood,08:00 - 18:00,2.8,FALSE
+ Royal Purple Pizzeria,Italian,cheap,Manhattan Beach,00:00 - 23:59,4.6,TRUE
+ Mama's Purple House,Norwegian,cheap,Washington Heights,08:00 - 18:00,1.3,FALSE
+ Cozy Purple Brasserie,Brazilian,expensive,Manhattan Beach,08:00 - 18:00,3.9,FALSE
+ Chill Black Tavern,Norwegian,medium,Howard Beach,15:00 - 23:30,2.1,FALSE
+ Chill Fox Kitchen,Portuguese,expensive,Dyker Heights,08:00 - 18:00,1.1,TRUE
+ Ruby Fox Lounge,Sushi,expensive,Woodside,11:30 - 21:30,3,TRUE
+ Royal Yellow Cantina,Swiss,expensive,Carnegie Hill,08:00 - 18:00,4.7,FALSE
+ Sunny Hawk Bar,Swedish,cheap,Mill Basin,08:00 - 18:00,2.5,FALSE
+ Magic Shark Eatery,Tibetan,expensive,Midwood,15:00 - 23:30,3.6,TRUE
+ Emerald Orange Pub,American,cheap,Williamsburg,00:00 - 23:59,2.7,TRUE
+ Cozy Bear Kitchen,Indian,cheap,Belle Harbor,15:00 - 23:30,2.9,TRUE
+ Moonlight Eagle Pub,American,cheap,Jamaica,08:00 - 18:00,2,TRUE
+ Sunny Whale Brasserie,Korean,expensive,Fort Greene,00:00 - 23:59,3.3,FALSE
+ Mystic Bear Pizzeria,Sushi,cheap,Wingate,11:30 - 21:30,2.4,FALSE
+ Rustic Green Brasserie,Jamaican,expensive,Greenwich Village,15:00 - 23:30,2.4,TRUE
+ Icy Hawk Bar,Irish,expensive,Lower East Side,11:30 - 21:30,2.3,TRUE
+ Mama's Tiger Garden,Israeli,medium,Midwood,08:00 - 18:00,2.6,TRUE
+ Icy Dolphin Place,German,cheap,East Village,00:00 - 23:59,3.2,TRUE
+ Icy Purple Garden,Tibetan,cheap,Carnegie Hill,08:00 - 18:00,1.7,FALSE
